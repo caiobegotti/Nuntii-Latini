@@ -5,6 +5,8 @@ Nuntii Latini is a news broadcast in Latin brought to you by some crazy Finnish.
 
 As of today the corpora contain almost 27.000 tokens (300kb of text). A decent set of corpora contains at least 80.000 usable tokens, so there's plenty of room for improvement, specially trying to scrap even older news posts (pre-June 2010).
 
+To my knowledge, Nuntii Latini only publishes news in Classical Latin. Do no try to run ecclesiastical parsers or anything like that on these files, unless you know what you're doing.
+
 Format
 ------
 
