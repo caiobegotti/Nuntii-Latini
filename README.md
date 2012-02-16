@@ -12,7 +12,7 @@ The following "tags" are used throughout the corpora, so you will need to ignore
 * TITLE: the title of broadcast of the day
 * PUBLISHED: metadata about its publishing date and time
 * HEADER: title of secondary news of the day
-* PARAGRAPH: the first without a header are from the main article, others appear after a header only
+* PARAGRAPH: the first without a header is for the main article, others appear after a header only
 * AUTHOR: the name of the person who published the article
 
 All corpora are in plain texts without blank lines.
@@ -20,4 +20,4 @@ All corpora are in plain texts without blank lines.
 Contributing
 ------------
 
-I'd really love to convert this scrapper into one in Python using Scrapy.org (which I actually used in the very beginning but in shell it was way faster). Wanna help me to do it? :-)
+I'd really love to convert this scrapper into one written in Python, using Scrapy.org (which I actually used in the very beginning but doing it in shell was way faster). Wanna help me to do it? :-)
