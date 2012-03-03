@@ -53,7 +53,7 @@ def get_articles_content(url):
 
 def get_subnews_content(url):
     page = etree.parse(url, etree.HTMLParser(encoding='utf-8'))
-    path = page.xpath("//h3/following-sibling::p[not(starts-with(text(),'('))]//text()")
+    path = page.xpath("//h3/following-sibling::p[not(starts-with(text(),'('))]//text()[1]")
     return path[:-8]
 
 def get_subnews_author(url):
