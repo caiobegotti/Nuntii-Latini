@@ -77,8 +77,9 @@ for u in urls:
     subnews = get_subnews_titles(u)
     subnews_content = get_subnews_content(u)
     date = get_articles_dates(u)
+    iso = date.split(' ')[0]
 
-    filename = 'nl_' + title.replace(' ','_').lower() + '.xml'
+    filename = 'nl_' + iso + '_' +  title.replace(' ','_').lower() + '.xml'
     w = XMLWriter(filename, encoding='utf-8')
     html = w.start("broadcast")
 
