@@ -10,7 +10,7 @@ To my knowledge, Nuntii Latini only publishes news in Classical Latin. Do no try
 Format
 ------
 
-The corpora is a set of human-readable files in XML format. Every post is in a distinct file and they all use the following structure:
+The corpora are human-readable files in XML format. Every post is in a distinct file and they all use the following structure:
 
 ```
 <broadcast>
@@ -33,12 +33,10 @@ The corpora is a set of human-readable files in XML format. Every post is in a d
 
 Broadcast is the post of the day, containing more than one news. Title is the title of this set of news. The meta tags contain informative data about the broadcast. Headline is the title of the main news of the day, so far the first one, and it will contain its title and the body of this main news. News is the block where subnews will appear, with their titles and content as well. However please notice we may have multiple news inside the same broadcast.
 
-The following "tags" are used throughout the corpora, so you will need to ignore them when doing your natural language processing magic:
-
 Known bugs
 ----------
 
-The following broadcasts are known to have problems in their scrapped data. Some old pages have titles using ``<h4>`.
+The following broadcasts are known to have problems in their scrapped data. Some old pages have titles using ``h4` for news titles or even not nodes at all. E.g.:
 
 http://yle.fi/radio1/tiede/nuntii_latini/aestas_calidissima_in_finnia_24777.html
 
