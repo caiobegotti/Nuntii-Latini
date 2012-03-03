@@ -41,11 +41,17 @@ Known bugs
 The following broadcasts are known to have problems in their scrapped data:
 
 http://yle.fi/radio1/tiede/nuntii_latini/mario_monti_primus_minister_33069.html
+
 http://yle.fi/radio1/tiede/nuntii_latini/emanatio_informatica_wikileaks_27325.html
+
 http://yle.fi/radio1/tiede/nuntii_latini/destalinizatio_in_russia_suscipietur_27167.html
+
 http://yle.fi/radio1/tiede/nuntii_latini/certamen_saunationis_fatale_24846.html
+
 http://yle.fi/radio1/tiede/nuntii_latini/aestas_calidissima_in_finnia_24777.html
+
 http://yle.fi/radio1/tiede/nuntii_latini/in_kirgisia_tumultus_violenti_24092.html
+
 http://yle.fi/radio1/tiede/nuntii_latini/nuntii_latini_-_israeliani_impetum_maritimum_fecerunt_609.html
 
 Contributing
