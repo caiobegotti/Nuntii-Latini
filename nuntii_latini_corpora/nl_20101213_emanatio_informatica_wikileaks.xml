@@ -1,1 +1,37 @@
-<broadcast><title>Emanatio informatica Wikileaks</title><meta name="author" value="N/A" /><meta name="published" value="20101213 10:14:00" /><meta name="corpus" value="nl_20101213_emanatio_informatica_wikileaks.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/emanatio_informatica_wikileaks_27325.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Emanatio informatica Wikileaks</title><content>His septimanis animi politicorum toto orbe terrarum commoti sunt paginis interretialibus vulgo Wikileaks appellatis. Agitur de divulgatione epistularum clandestinarum, quibus legati Americani sine ullis ambagibus suis superioribus narraverunt, quid de ducibus civitatum cogitarent. Illa emanatione informatica omnium temporum gravissima factum est, ut ducenta quinquaginta milia nuntiorum secretorum propalam fierent. (Reijo Pitkäranta)</content></headline><news><title>Hispania multos aeriportus vendit</title><content>Regimen Hispaniae varias rationes parcendi approbavit, quae oeconomiae nationis resarciendae inservirent et quibus Unioni Europaeae ostenderetur, quam serii Hispani in aere alieno suo curando essent. Ministris placuit dimidiam partem aeriportuum et tertiam partem aleae publicae possessoribus  privatis vendere. Sperant fore, ut civitas isoanica Hispex his negotiis quattuordecim miliarda euronum accipiat.  </content></news><news><title>Novum microbium nuper inventum</title><content>Investigatores Americani in quodam lacu venenoso Californiano microbium novi generis invenerunt. Maxime id in eo mirantur, quod sine phosphoro vivere et crescere valet ad cellulas suas nutriendas nonnisi arseno utendo. Biochemista Felisa Wolfe Simon ait hunc organismum utilissimum esse ad indolem vitae melius intellegendam.   </content></news><news><title>Thermae Romanae repertae </title><content>In vico Hierosolymorum vetere ruinae thermarum Romanarum in lucem venerunt. Existimatur haec area partem Aeliae Capitolinae constituisse, quae erat colonia Romana anno centesimo tricesimo ab imperatore Hadriano condita. Creditur balneas nuper repertas in usu legionis decimae fuisse, nam constat castra eius in hac regione iacuisse.</content></news><news><title>Regula Sancti Benedicti Finnice</title><content>Regula monasterialis Sancti Benedicti, quae originem ab saeculo sexto  trahit, ex Latino in Finnicum translata est. Translationem perfecit  grex investigatorum studentiumque Universitatis Helsinkiensis. Benedictus monasterium in Monte Cassino constituit et regulam eius scripsit. Hoc documento vita spiritualis, vitae monasterialis  consuetudo, poenae quoque ex delictis sequentes tractantur. Translatores opus suum etiam papae Benedicto XVI mittent.</content></news><news><title>Lahti, urbs praesaepiorum</title><content>Tempore natalicio Christianis mos est praesaepia varii generis fabricari. In Finnia praecipue urbs Lahti in hac arte eminet, quippe quae abhinc quinque annos se urbem praesaepiorum Finniae pronuntiaverit. Materia illorum operum multum variat. Ut unum exemplum afferamus, in urbe Lahti praesaepium videre licet, ubi Iesus infans in nido e lana neta contexto iacet. </content></news><news><title>Helsinkium nivibus completum</title><content>Mense Decembri ineunte Helsinkii plurimae nives ceciderunt, quae res civibus ad laborem properantibus magnas difficultates attulit. Acervi enim nivium in viis congregati  impediunt, ne vehicula publica aut iter consuetum servare aut in horario constituto manere possint.</content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Emanatio informatica Wikileaks</title>
+  <meta name="author" value="N/A"/>
+  <meta name="published" value="20101213 10:14:00"/>
+  <meta name="corpus" value="nl_20101213_emanatio_informatica_wikileaks.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/emanatio_informatica_wikileaks_27325.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Emanatio informatica Wikileaks</title>
+    <content>His septimanis animi politicorum toto orbe terrarum commoti sunt paginis interretialibus vulgo Wikileaks appellatis. Agitur de divulgatione epistularum clandestinarum, quibus legati Americani sine ullis ambagibus suis superioribus narraverunt, quid de ducibus civitatum cogitarent. Illa emanatione informatica omnium temporum gravissima factum est, ut ducenta quinquaginta milia nuntiorum secretorum propalam fierent. (Reijo Pitk&#xE4;ranta)</content>
+  </headline>
+  <news>
+    <title>Hispania multos aeriportus vendit</title>
+    <content>Regimen Hispaniae varias rationes parcendi approbavit, quae oeconomiae nationis resarciendae inservirent et quibus Unioni Europaeae ostenderetur, quam serii Hispani in aere alieno suo curando essent. Ministris placuit dimidiam partem aeriportuum et tertiam partem aleae publicae possessoribus  privatis vendere. Sperant fore, ut civitas isoanica Hispex his negotiis quattuordecim miliarda euronum accipiat.  </content>
+  </news>
+  <news>
+    <title>Novum microbium nuper inventum</title>
+    <content>Investigatores Americani in quodam lacu venenoso Californiano microbium novi generis invenerunt. Maxime id in eo mirantur, quod sine phosphoro vivere et crescere valet ad cellulas suas nutriendas nonnisi arseno utendo. Biochemista Felisa Wolfe Simon ait hunc organismum utilissimum esse ad indolem vitae melius intellegendam.   </content>
+  </news>
+  <news>
+    <title>Thermae Romanae repertae </title>
+    <content>In vico Hierosolymorum vetere ruinae thermarum Romanarum in lucem venerunt. Existimatur haec area partem Aeliae Capitolinae constituisse, quae erat colonia Romana anno centesimo tricesimo ab imperatore Hadriano condita. Creditur balneas nuper repertas in usu legionis decimae fuisse, nam constat castra eius in hac regione iacuisse.</content>
+  </news>
+  <news>
+    <title>Regula Sancti Benedicti Finnice</title>
+    <content>Regula monasterialis Sancti Benedicti, quae originem ab saeculo sexto  trahit, ex Latino in Finnicum translata est. Translationem perfecit  grex investigatorum studentiumque Universitatis Helsinkiensis. Benedictus monasterium in Monte Cassino constituit et regulam eius scripsit. Hoc documento vita spiritualis, vitae monasterialis  consuetudo, poenae quoque ex delictis sequentes tractantur. Translatores opus suum etiam papae Benedicto XVI mittent.</content>
+  </news>
+  <news>
+    <title>Lahti, urbs praesaepiorum</title>
+    <content>Tempore natalicio Christianis mos est praesaepia varii generis fabricari. In Finnia praecipue urbs Lahti in hac arte eminet, quippe quae abhinc quinque annos se urbem praesaepiorum Finniae pronuntiaverit. Materia illorum operum multum variat. Ut unum exemplum afferamus, in urbe Lahti praesaepium videre licet, ubi Iesus infans in nido e lana neta contexto iacet. </content>
+  </news>
+  <news>
+    <title>Helsinkium nivibus completum</title>
+    <content>Mense Decembri ineunte Helsinkii plurimae nives ceciderunt, quae res civibus ad laborem properantibus magnas difficultates attulit. Acervi enim nivium in viis congregati  impediunt, ne vehicula publica aut iter consuetum servare aut in horario constituto manere possint.</content>
+  </news>
+</broadcast>

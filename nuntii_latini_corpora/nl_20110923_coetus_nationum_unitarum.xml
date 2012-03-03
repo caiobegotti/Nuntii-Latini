@@ -1,1 +1,37 @@
-<broadcast><title>Coetus Nationum Unitarum</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20110923 15:05:00" /><meta name="corpus" value="nl_20110923_coetus_nationum_unitarum.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/coetus_nationum_unitarum_32083.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Coetus Nationum Unitarum</title><content>Die Mercurii (21.9.) in urbe New York coetus generalis Nationum Unitarum inauguratus est. Inter argumenta maximi momenti sunt quaestiones, quaenam sit condicio Libyae futura et quo modo res in Proximo Oriente pacentur. De sorte Libyae communitas internationalis aequo animo est, sed tensio inter Israelianos et Palaestinienses politica sollicitudinem parat.  </content></headline><news><title>Discordia Turciae et Graeciae</title><content>Moderatores Turciae  Graecos in Cypro habitantes monuerunt, ne una cum Americanis gasum in Mari Mediterraneo quaerere inciperent. Nisi illo consilio destitissent, etiam Turcos se ibidem investigationes eiusmodi suscepturos et naves bellicas indagatoribus praesidio missuros esse. Cypro-Graecos nullum ius habere mare ad suum usum convertendi, cum opes naturae communes essent.</content></news><news><title>Comitia in Dania habita</title><content>In Dania comitia parlamentaria habita sunt, quorum victoriam reportavit  coalitio  partium sinistrarum et mediarum. Quae cum ita essent, Helle Thorning-Schmidt, praeses factionis democratarum socialium quadraginta quattuor annos nata, princeps ministra Daniae facta est. Eventu comitiorum nuntiato pristinus princeps minister Lars Lökke Rasmussen a regina petivit, ut ipsum ex munere liberaret.</content></news><news><title>Belorussia a Sinis adiuvatur</title><content>Belorussia, quae ex difficultatibus oeconomicis laborat,  a Sinis pecuniam unius miliardi dollarorum mutuam accipiet. Huc accedit, quod Sinenses se eidem civitati etiam stipendio undecim milionum dollarorum opitulaturos esse promiserunt. Insuper Wu Bangguo, praeses parlamenti Sinensis, de pactis nuntiavit, ex quibus in urbe Minsk deversorium et fabrica chartaria aedificarentur. </content></news><news><title>Duo Finni terrorismi fautores</title><content>In Finnia duo homines, vir et femina, a custodibus publicis deprehensi sunt, cum in suspicionem terrorismi provehendi incidissent. Qui et cuiates illi essent, magistratus propter causas investigatorias nondum patefecerunt, sed in actis diurnis legitur eos origine Somalos esse, qui civitatem Finnicam possident. </content></news><news><title>Migratio gruum autumnalis</title><content>Septimana vergente grues ex Finnia in regiones meridianas emigrare coeperunt.  Quin etiam quinquaginta milia gruum in magnis examinibus cuneatis volantium uno die in caelo Finniae videbantur, quod ornithophilis magnam admirationem iniecit.  Hoc avium genus hiemem imprimis in Hispania et Africa Septentrionali agere solet.</content></news><news><title>De ludis follis volatici</title><content>Mense Septembri Vindobonae, in urbe Austriae, de principatu Europaeo ludi follis volatici certatum est. Primas tulit manus nationalis Serbiae, quae ultimo certamine cum Italianis commisso adversarios punctis tria ad unum (3-1)vicit. Grex Poloniae, postquam cum Russis de tertio loco dimicavit, nomismate aeneo potitus est. </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Coetus Nationum Unitarum</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20110923 15:05:00"/>
+  <meta name="corpus" value="nl_20110923_coetus_nationum_unitarum.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/coetus_nationum_unitarum_32083.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Coetus Nationum Unitarum</title>
+    <content>Die Mercurii (21.9.) in urbe New York coetus generalis Nationum Unitarum inauguratus est. Inter argumenta maximi momenti sunt quaestiones, quaenam sit condicio Libyae futura et quo modo res in Proximo Oriente pacentur. De sorte Libyae communitas internationalis aequo animo est, sed tensio inter Israelianos et Palaestinienses politica sollicitudinem parat.  </content>
+  </headline>
+  <news>
+    <title>Discordia Turciae et Graeciae</title>
+    <content>Moderatores Turciae  Graecos in Cypro habitantes monuerunt, ne una cum Americanis gasum in Mari Mediterraneo quaerere inciperent. Nisi illo consilio destitissent, etiam Turcos se ibidem investigationes eiusmodi suscepturos et naves bellicas indagatoribus praesidio missuros esse. Cypro-Graecos nullum ius habere mare ad suum usum convertendi, cum opes naturae communes essent.</content>
+  </news>
+  <news>
+    <title>Comitia in Dania habita</title>
+    <content>In Dania comitia parlamentaria habita sunt, quorum victoriam reportavit  coalitio  partium sinistrarum et mediarum. Quae cum ita essent, Helle Thorning-Schmidt, praeses factionis democratarum socialium quadraginta quattuor annos nata, princeps ministra Daniae facta est. Eventu comitiorum nuntiato pristinus princeps minister Lars L&#xF6;kke Rasmussen a regina petivit, ut ipsum ex munere liberaret.</content>
+  </news>
+  <news>
+    <title>Belorussia a Sinis adiuvatur</title>
+    <content>Belorussia, quae ex difficultatibus oeconomicis laborat,  a Sinis pecuniam unius miliardi dollarorum mutuam accipiet. Huc accedit, quod Sinenses se eidem civitati etiam stipendio undecim milionum dollarorum opitulaturos esse promiserunt. Insuper Wu Bangguo, praeses parlamenti Sinensis, de pactis nuntiavit, ex quibus in urbe Minsk deversorium et fabrica chartaria aedificarentur. </content>
+  </news>
+  <news>
+    <title>Duo Finni terrorismi fautores</title>
+    <content>In Finnia duo homines, vir et femina, a custodibus publicis deprehensi sunt, cum in suspicionem terrorismi provehendi incidissent. Qui et cuiates illi essent, magistratus propter causas investigatorias nondum patefecerunt, sed in actis diurnis legitur eos origine Somalos esse, qui civitatem Finnicam possident. </content>
+  </news>
+  <news>
+    <title>Migratio gruum autumnalis</title>
+    <content>Septimana vergente grues ex Finnia in regiones meridianas emigrare coeperunt.  Quin etiam quinquaginta milia gruum in magnis examinibus cuneatis volantium uno die in caelo Finniae videbantur, quod ornithophilis magnam admirationem iniecit.  Hoc avium genus hiemem imprimis in Hispania et Africa Septentrionali agere solet.</content>
+  </news>
+  <news>
+    <title>De ludis follis volatici</title>
+    <content>Mense Septembri Vindobonae, in urbe Austriae, de principatu Europaeo ludi follis volatici certatum est. Primas tulit manus nationalis Serbiae, quae ultimo certamine cum Italianis commisso adversarios punctis tria ad unum (3-1)vicit. Grex Poloniae, postquam cum Russis de tertio loco dimicavit, nomismate aeneo potitus est. </content>
+  </news>
+</broadcast>

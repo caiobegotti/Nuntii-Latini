@@ -1,1 +1,37 @@
-<broadcast><title>Mississippi agros inundat</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20110520 08:54:00" /><meta name="corpus" value="nl_20110520_mississippi_agros_inundat.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/mississippi_agros_inundat_30285.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Mississippi agros inundat</title><content>In Civitatibus Americae Unitis saltem mille trecentae familiae domum relinquere coactae sunt propter inundationes fluminis Mississippi. Magistratus etiam carcerem quendam in civitate Ludoviciana vacuefecerunt et aggerem ad eluviones arcendas constructum aperuerunt, ut copiam aquarum civitati Novae Aureliae imminentium deminuerent.</content></headline><news><title>De Portugallia adiuvanda</title><content>Ministri aerarii publici Unionis Europaeae consenserunt, ut Portugalliae auxilium pecuniarium  concederetur, cuius summa undeoctoginta miliarda euronum efficeret. Neque id comprobatum esset, nisi Portugalli condiciones a Finnis propositas accepissent: partem bonorum publicorum venderent et collocatores pecuniae hortarentur, ne possessiones suas ex Portugallia in terras exteras deducerent. </content></news><news><title>Scandalum Francogallicum</title><content>Dominique Strauss-Kahn, director generalis Fundi monetarii internationalis (IMF), in urbe New York  deprehensus est. Accusatur ille vir sexaginta duos annos natus de stupro temptato, maletractatione sexuali, libertate vi abrepta. Ante hoc scandalum Strauss-Kahn inter homines in mundo maximae auctoritatis numerabatur. Quin etiam praesidens Francogalliae anno proxime futuro electum iri putabatur.  </content></news><news><title>Reclamationes in Aegypto</title><content>Die tertio decimo mensis Maii (13.5.) in Aegypto multa milia hominum reclamationi pro unitate nationali servanda interfuerunt. Reclamatores in media urbe Cairo congregati violentiis inter musulmanos et Christianos Coptos ortis adversabantur. Neque deerant, qui ibi cruces manu tenerent, sed maior pars multitudinis e musulmanis Aegyptiis constare videbatur. </content></news><news><title>Causa calamitatis aeriae</title><content>Iam in eo est, ut causa calamitatis, quae abhinc duos annos aeroplano Francogallico obtigit, tandem patefiat. Namque ante duas septimanas in imo mari caseta nigra reperta est, ex qua conici potest, quidnam ultimis illius volatus momentis in aere factum sit. Loquimur de aeronavi ex societate Air France, quae mense Iunio anno bismillesimo nono (2009) ex urbe Rio de Janeiro profecta Parisium versus volabat, cum subito in mare praecipitata est.</content></news><news><title>Finni victoriam adepti</title><content>Certamina hoccei glacialis mundana hoc anno in Slovakia habita sunt. Ludus finalis Idibus Maiis (15.5.) in urbe Bratislava inter Finnos et Suetos commissus est. Quo ex certamine grex Finnorum nationalis superior discessit,  quo factum est, ut tropaeum iustissimo iure nostratibus daretur. </content></news><news><title>Nox sine nocte adest</title><content>Die septimo decimo huius mensis (17.5.) aestas in partibus Finniae maxime septentrionalis iniit. Sol enim eo mane ortus his locis per septuaginta duos dies et noctes continuas in conspectu manebit, donec die duodetricesimo mensis Iulii (28.7.) rursus occidet. Hoc spatium temporis apud nos ‘nox sine nocte’ appellari solet.</content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Mississippi agros inundat</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20110520 08:54:00"/>
+  <meta name="corpus" value="nl_20110520_mississippi_agros_inundat.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/mississippi_agros_inundat_30285.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Mississippi agros inundat</title>
+    <content>In Civitatibus Americae Unitis saltem mille trecentae familiae domum relinquere coactae sunt propter inundationes fluminis Mississippi. Magistratus etiam carcerem quendam in civitate Ludoviciana vacuefecerunt et aggerem ad eluviones arcendas constructum aperuerunt, ut copiam aquarum civitati Novae Aureliae imminentium deminuerent.</content>
+  </headline>
+  <news>
+    <title>De Portugallia adiuvanda</title>
+    <content>Ministri aerarii publici Unionis Europaeae consenserunt, ut Portugalliae auxilium pecuniarium  concederetur, cuius summa undeoctoginta miliarda euronum efficeret. Neque id comprobatum esset, nisi Portugalli condiciones a Finnis propositas accepissent: partem bonorum publicorum venderent et collocatores pecuniae hortarentur, ne possessiones suas ex Portugallia in terras exteras deducerent. </content>
+  </news>
+  <news>
+    <title>Scandalum Francogallicum</title>
+    <content>Dominique Strauss-Kahn, director generalis Fundi monetarii internationalis (IMF), in urbe New York  deprehensus est. Accusatur ille vir sexaginta duos annos natus de stupro temptato, maletractatione sexuali, libertate vi abrepta. Ante hoc scandalum Strauss-Kahn inter homines in mundo maximae auctoritatis numerabatur. Quin etiam praesidens Francogalliae anno proxime futuro electum iri putabatur.  </content>
+  </news>
+  <news>
+    <title>Reclamationes in Aegypto</title>
+    <content>Die tertio decimo mensis Maii (13.5.) in Aegypto multa milia hominum reclamationi pro unitate nationali servanda interfuerunt. Reclamatores in media urbe Cairo congregati violentiis inter musulmanos et Christianos Coptos ortis adversabantur. Neque deerant, qui ibi cruces manu tenerent, sed maior pars multitudinis e musulmanis Aegyptiis constare videbatur. </content>
+  </news>
+  <news>
+    <title>Causa calamitatis aeriae</title>
+    <content>Iam in eo est, ut causa calamitatis, quae abhinc duos annos aeroplano Francogallico obtigit, tandem patefiat. Namque ante duas septimanas in imo mari caseta nigra reperta est, ex qua conici potest, quidnam ultimis illius volatus momentis in aere factum sit. Loquimur de aeronavi ex societate Air France, quae mense Iunio anno bismillesimo nono (2009) ex urbe Rio de Janeiro profecta Parisium versus volabat, cum subito in mare praecipitata est.</content>
+  </news>
+  <news>
+    <title>Finni victoriam adepti</title>
+    <content>Certamina hoccei glacialis mundana hoc anno in Slovakia habita sunt. Ludus finalis Idibus Maiis (15.5.) in urbe Bratislava inter Finnos et Suetos commissus est. Quo ex certamine grex Finnorum nationalis superior discessit,  quo factum est, ut tropaeum iustissimo iure nostratibus daretur. </content>
+  </news>
+  <news>
+    <title>Nox sine nocte adest</title>
+    <content>Die septimo decimo huius mensis (17.5.) aestas in partibus Finniae maxime septentrionalis iniit. Sol enim eo mane ortus his locis per septuaginta duos dies et noctes continuas in conspectu manebit, donec die duodetricesimo mensis Iulii (28.7.) rursus occidet. Hoc spatium temporis apud nos &#x2018;nox sine nocte&#x2019; appellari solet.</content>
+  </news>
+</broadcast>

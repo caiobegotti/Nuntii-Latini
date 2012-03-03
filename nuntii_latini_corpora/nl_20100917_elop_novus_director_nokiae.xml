@@ -1,1 +1,37 @@
-<broadcast><title>Elop novus director Nokiae</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20100917 09:39:00" /><meta name="corpus" value="nl_20100917_elop_novus_director_nokiae.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/elop_novus_director_nokiae_25451.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Elop novus director Nokiae</title><content>Novus director generalis societatis telecommunicativae NOKIA designatus est Stephen Elop, vir Canadensis quadraginta sex annos natus. Hoc munus inibit die vicesimo primo huius mensis (21.9.). Olli-Pekka Kallasvuo, pristinus director natione Finnus, qui eidem societati quinque annos praefuerat, officio decedere coactus est, cum ei non contigisset, ut administratoribus opere suo satisfaceret.</content></headline><news><title>Irja Askola episcopus ordinata</title><content>Finnia primam episcopum feminam accepit, cum Irja Askola, magistra theologiae quinquaginta septem annos nata, episcopus dioecesis Helsinkiensis ordinata est. Caerimonia die Dominico, pridie Idus Septembres (12.9.), in Ecclesia cathedrali Helsinkiensi facta est eamque procuravit Kari Mäkinen, archiepiscopus ecclesiae evangelico-Lutheranae Finniae. Ei ordinationem exsequenti assistebant multi episcopi peregrini.  </content></news><news><title>Defectio legati Iraniani</title><content>Hossein Alizadeh, qui in sede diplomatica Iraniae in Finnia ministrabat, legatione deposita sibi asylum politicum a Finnis petivit. Inter colloquium diurnariis datum syngraphum suum Iranianum coram omnibus abiecit et negavit se iam in patriam reverti posse. Ait se iis adiunctum esse, qui praesidenti Iraniae omnia iura humana neglegenti vehementer resisterent. </content></news><news><title>Expeditio Finnica contra piratas</title><content>Anno futuro ineunte ex Finnia navis minis everrendis nomine Pohjanmaa in Somaliam proficiscetur. Navigio centum viginti milites imponentur, quorum erit aquas Cornus Africae adversus aggressiones piratarum tueri itaque impedire, ne transportationes cibariae in Somaliam missae in periculum vocentur.</content></news><news><title>Democratia in Turcia augetur</title><content>Suffragio generali in Turcia instituto apparuit maiorem suffragatorum partem suavisse, ut lex fundamentalis a regimine militari duodeviginti annis ante perlata ex multis partibus mutaretur. Princeps minister Erdogan voluntate populi gavisus nuntiavit eventum comitiorum documento esse Turciam iam propius legislationem Unionis Europaeae accessisse.. </content></news><news><title>Turris Eiffeliana vacuefacta</title><content>Die Martis (14.9.) turris Eiffeliana et area ei circumiecta a duobus fere milibus hominum vacuefactae sunt, cum quidam vir ignotus telephonice nuntiavisset ibi bombam collocatam esse. Rerum periti tamen eo loco nihil suspiciosi invenerunt, quam ob rem illud aedificium plus trecenta metra altum die Mercurii mane denuo patefactum est. </content></news><news><title>Sherlock Holmes renovatus</title><content>Corpus radiophonicum Britannicum, vulgo BBC nuncupatum, hac aestate seriem televisificam nomine Sherlock praesentavit, ubi Sherlock Holmes, detector ille celeberrimus, scelera in hodierno Londinio commissa investigat. Programma apud spectatores tanta gratia valebat, ut fieri non posset, quin eadem societas scriptores ad novas fabulas Sherlockianas componendas hortaretur.  </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Elop novus director Nokiae</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20100917 09:39:00"/>
+  <meta name="corpus" value="nl_20100917_elop_novus_director_nokiae.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/elop_novus_director_nokiae_25451.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Elop novus director Nokiae</title>
+    <content>Novus director generalis societatis telecommunicativae NOKIA designatus est Stephen Elop, vir Canadensis quadraginta sex annos natus. Hoc munus inibit die vicesimo primo huius mensis (21.9.). Olli-Pekka Kallasvuo, pristinus director natione Finnus, qui eidem societati quinque annos praefuerat, officio decedere coactus est, cum ei non contigisset, ut administratoribus opere suo satisfaceret.</content>
+  </headline>
+  <news>
+    <title>Irja Askola episcopus ordinata</title>
+    <content>Finnia primam episcopum feminam accepit, cum Irja Askola, magistra theologiae quinquaginta septem annos nata, episcopus dioecesis Helsinkiensis ordinata est. Caerimonia die Dominico, pridie Idus Septembres (12.9.), in Ecclesia cathedrali Helsinkiensi facta est eamque procuravit Kari M&#xE4;kinen, archiepiscopus ecclesiae evangelico-Lutheranae Finniae. Ei ordinationem exsequenti assistebant multi episcopi peregrini.  </content>
+  </news>
+  <news>
+    <title>Defectio legati Iraniani</title>
+    <content>Hossein Alizadeh, qui in sede diplomatica Iraniae in Finnia ministrabat, legatione deposita sibi asylum politicum a Finnis petivit. Inter colloquium diurnariis datum syngraphum suum Iranianum coram omnibus abiecit et negavit se iam in patriam reverti posse. Ait se iis adiunctum esse, qui praesidenti Iraniae omnia iura humana neglegenti vehementer resisterent. </content>
+  </news>
+  <news>
+    <title>Expeditio Finnica contra piratas</title>
+    <content>Anno futuro ineunte ex Finnia navis minis everrendis nomine Pohjanmaa in Somaliam proficiscetur. Navigio centum viginti milites imponentur, quorum erit aquas Cornus Africae adversus aggressiones piratarum tueri itaque impedire, ne transportationes cibariae in Somaliam missae in periculum vocentur.</content>
+  </news>
+  <news>
+    <title>Democratia in Turcia augetur</title>
+    <content>Suffragio generali in Turcia instituto apparuit maiorem suffragatorum partem suavisse, ut lex fundamentalis a regimine militari duodeviginti annis ante perlata ex multis partibus mutaretur. Princeps minister Erdogan voluntate populi gavisus nuntiavit eventum comitiorum documento esse Turciam iam propius legislationem Unionis Europaeae accessisse.. </content>
+  </news>
+  <news>
+    <title>Turris Eiffeliana vacuefacta</title>
+    <content>Die Martis (14.9.) turris Eiffeliana et area ei circumiecta a duobus fere milibus hominum vacuefactae sunt, cum quidam vir ignotus telephonice nuntiavisset ibi bombam collocatam esse. Rerum periti tamen eo loco nihil suspiciosi invenerunt, quam ob rem illud aedificium plus trecenta metra altum die Mercurii mane denuo patefactum est. </content>
+  </news>
+  <news>
+    <title>Sherlock Holmes renovatus</title>
+    <content>Corpus radiophonicum Britannicum, vulgo BBC nuncupatum, hac aestate seriem televisificam nomine Sherlock praesentavit, ubi Sherlock Holmes, detector ille celeberrimus, scelera in hodierno Londinio commissa investigat. Programma apud spectatores tanta gratia valebat, ut fieri non posset, quin eadem societas scriptores ad novas fabulas Sherlockianas componendas hortaretur.  </content>
+  </news>
+</broadcast>

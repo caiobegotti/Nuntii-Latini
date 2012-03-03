@@ -1,1 +1,33 @@
-<broadcast><title>Tumultus violenti Athenis orti</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20120217 13:11:00" /><meta name="corpus" value="nl_20120217_tumultus_violenti_athenis_orti.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/tumultus_violenti_athenis_orti_34454.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Tumultus violenti Athenis orti</title><content>Parsimoniae publicae, quas Unio Europaea et instituta nummaria internationalia Graecos poposcerant, a parlamento Graeciae approbatae sunt. Inter alia decretum est, ut quindecim milia sedium operandi publicarum abolerentur et salaria minima valde deminuerentur. Populus autem de consilio parlamenti certior factus tanta ira incensus est, ut in vias Athenarum saltem octoginta milia hominum reclamandi causa congregarentur. Tumultibus violentis ortis multa aedificia incensa sunt et magna multitudo civium vulnerata est.</content></headline><news><title>Impetus in Emesam continui</title><content>Copiae Syriae in adversarios praesidentis Bashar al-Assad impetus facere perrexerunt. Aggrediuntur imprimis urbem Emesam sive Homs, quae pro sede principali motus rebellis habetur. Nuntiatum est eadem loca iterum atque iterum bombis verberari, ex quo sequitur, ut nemo ex urbe effugere possit.</content></news><news><title>Xi Jinping et Obama convenerunt</title><content>Die Martis (14.2.) Xi Jinping, vicepraesidens Sinarum, praesidentem Civitatum Americae Unitarum Barack Obama in Aedibus Albis convenit. Americani et Sinenses aequilibrium inter discordias et mutua commoda invenire conantur. Americani enim, quamquam Sinenses de iuribus humanis violatis et aliis vitiis reprehendunt, tamen momentum politicae suae externae magis atque magis in Asiam et in regiones Oceani Pacifici versus transtulerunt.</content></news><news><title>Periculum terrorismi in Suetia</title><content>Moderatores Suetiae censent periculum terrorismi, quod patriae suae immineat, verum et manifestum esse. Haec aestimatio in nova disciplina militari inest, quam administratores ad terrorismum avertendum nuper excogitaverunt. Condicio securitatis in peius mutata esse existimatur, nam abhinc quattuor annos illud periculum in Suetia parvi ducebatur.  </content></news><news><title>Dickens ante CC annos natus</title><content>Hoc mense Februario ducenti anni acti sunt, cum Carolus Dickens, scriptor Britannus celeberrimus, natus est. Memoria eius bisaecularis non solum in Britannia, sed etiam in aliis orbis terrarum partibus variis modis celebratur. In ipsa Britannia hoc iubilaeum inter eos tres eventus numeratur, quibus populus hoc anno quasi in unum corpus coalescere videtur. Huc pertinent etiam Elisabeth II sexaginta annos regina et ludi Olympici hac aestate Londinii futuri. </content></news><news><title>Sambia victoriam reportavit</title><content>Pridie Idus Februarias (12.2.) Liberopoli, in urbe Gabonis, inter Sambiam et Litus Eburneum certatum est, utra harum civitatum principatum in Africa pedifollicum adeptura esset. Superior discessit Sambia, cuius grex nationalis adversarios numeris octo ad septem (8-7) vicit. Neque ludus ille suo tempore diiudicari potuit, sed opus erat certamen ictuum poenalium instituere. </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Tumultus violenti Athenis orti</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20120217 13:11:00"/>
+  <meta name="corpus" value="nl_20120217_tumultus_violenti_athenis_orti.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/tumultus_violenti_athenis_orti_34454.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Tumultus violenti Athenis orti</title>
+    <content>Parsimoniae publicae, quas Unio Europaea et instituta nummaria internationalia Graecos poposcerant, a parlamento Graeciae approbatae sunt. Inter alia decretum est, ut quindecim milia sedium operandi publicarum abolerentur et salaria minima valde deminuerentur. Populus autem de consilio parlamenti certior factus tanta ira incensus est, ut in vias Athenarum saltem octoginta milia hominum reclamandi causa congregarentur. Tumultibus violentis ortis multa aedificia incensa sunt et magna multitudo civium vulnerata est.</content>
+  </headline>
+  <news>
+    <title>Impetus in Emesam continui</title>
+    <content>Copiae Syriae in adversarios praesidentis Bashar al-Assad impetus facere perrexerunt. Aggrediuntur imprimis urbem Emesam sive Homs, quae pro sede principali motus rebellis habetur. Nuntiatum est eadem loca iterum atque iterum bombis verberari, ex quo sequitur, ut nemo ex urbe effugere possit.</content>
+  </news>
+  <news>
+    <title>Xi Jinping et Obama convenerunt</title>
+    <content>Die Martis (14.2.) Xi Jinping, vicepraesidens Sinarum, praesidentem Civitatum Americae Unitarum Barack Obama in Aedibus Albis convenit. Americani et Sinenses aequilibrium inter discordias et mutua commoda invenire conantur. Americani enim, quamquam Sinenses de iuribus humanis violatis et aliis vitiis reprehendunt, tamen momentum politicae suae externae magis atque magis in Asiam et in regiones Oceani Pacifici versus transtulerunt.</content>
+  </news>
+  <news>
+    <title>Periculum terrorismi in Suetia</title>
+    <content>Moderatores Suetiae censent periculum terrorismi, quod patriae suae immineat, verum et manifestum esse. Haec aestimatio in nova disciplina militari inest, quam administratores ad terrorismum avertendum nuper excogitaverunt. Condicio securitatis in peius mutata esse existimatur, nam abhinc quattuor annos illud periculum in Suetia parvi ducebatur.  </content>
+  </news>
+  <news>
+    <title>Dickens ante CC annos natus</title>
+    <content>Hoc mense Februario ducenti anni acti sunt, cum Carolus Dickens, scriptor Britannus celeberrimus, natus est. Memoria eius bisaecularis non solum in Britannia, sed etiam in aliis orbis terrarum partibus variis modis celebratur. In ipsa Britannia hoc iubilaeum inter eos tres eventus numeratur, quibus populus hoc anno quasi in unum corpus coalescere videtur. Huc pertinent etiam Elisabeth II sexaginta annos regina et ludi Olympici hac aestate Londinii futuri. </content>
+  </news>
+  <news>
+    <title>Sambia victoriam reportavit</title>
+    <content>Pridie Idus Februarias (12.2.) Liberopoli, in urbe Gabonis, inter Sambiam et Litus Eburneum certatum est, utra harum civitatum principatum in Africa pedifollicum adeptura esset. Superior discessit Sambia, cuius grex nationalis adversarios numeris octo ad septem (8-7) vicit. Neque ludus ille suo tempore diiudicari potuit, sed opus erat certamen ictuum poenalium instituere. </content>
+  </news>
+</broadcast>

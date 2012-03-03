@@ -1,1 +1,33 @@
-<broadcast><title>Rerum in Libya condicio</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20110225 15:25:00" /><meta name="corpus" value="nl_20110225_rerum_in_libya_condicio.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/rerum_in_libya_condicio_28577.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Rerum in Libya condicio</title><content>In diversis partibus Libyae, quin etiam Tripoli, in urbe principe, vehementes reclamationes populi contra regimen ortae sunt. Quibus perturbationibus Muammar Gaddafi, dux civitatis, crudelissime respondit, cum adversarios suos vi militari oppressurus magnam stragem civium reclamitantium fecit. Neque iam multum abesse videtur, quin in Libya bellum civile exardescat. Ipse Gaddafi orationem televisificam habuit, qua ira incensus recusavit, quominus umquam e patria sua abiret.   Idem iuravit se una cum fautoribus adversus reclamatores usque ad ultimam sanguinis guttam  pugnaturum esse et, si res postularet, in terra sua tamquam martyrem moriturum.</content></headline><news><title>Sententia Nationum Unitarum</title><content>Consilium securitatis Nationum Unitarum a Libya flagitat, ut nulla mora interposita vim suis civibus inferre desistat. Hanc declarationem, quae per totum diem Martis (22.2.) arbitris remotis praeparata erat, quindecim nationes illius consilii unanimiter divulgaverunt. Ex eodem documento id quoque patet, quam sollicitae Nationes Unitae de rerum in Libya condicione sint.</content></news><news><title>Calamitas Novae Zelandiae</title><content>In Nova Zelandia saltem sexaginta quinque homines vitam amiserunt et multa centena vulnerati sunt terrae motu die Martis facto, cuius vis amplius sex graduum Richterianorum fuisse aestimatur. Epicentrum calamitatis erat urbs Christchurch, quae in illa clade tanta detrimenta accepit, ut tota area in campum pugnae mutata esse videretur.</content></news><news><title>Colloquia Americanorum</title><content>Acta diurna Americana nomine The New Yorker  narrant legatos Civitatum Americae Unitarum in Afganistania consultationes clandestinas cum Talibanis agere. Ferunt illa colloquia iam per unum annum haberi. Americanos illa ratione usos esse ad cognoscendum, essentne inter Talibanos tales duces, cum quibus consultationes pacis iniri possent. </content></news><news><title>Putin suum montem accepit</title><content>Legati parlamentares Kirgisistaniae decreverunt, ut monti cuidam patriae suae nomen Putin ex principe ministro Russiae inderetur.  Hoc consilio capto indicare voluerunt, quam bonae relationes inter utramque nationem intercederent. Mons Putinianus multo excelsior est quam ille, qui abhinc novem annos Jeltsin appellari coeptus est in honorem praesidentis Russiae illius nominis.</content></news><news><title>De balaenis captandis</title><content>Magistratus Iaponienses statuerunt, ne hoc vere iam balaenas captare pergerent. Decretum idcirco factum esse dicitur, quod ille labor a tutatoribus animalium tantopere perturbaretur, ut piscatores in periculum vocarentur. Ordo balaenis tuendis nomine Sea Shephard nuntium cum gaudio accepit, sed ait se diligenter observaturum esse, num naves piscatoriae Iaponiensium re vera ab aquis Antarctidis domum reverterentur.</content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Rerum in Libya condicio</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20110225 15:25:00"/>
+  <meta name="corpus" value="nl_20110225_rerum_in_libya_condicio.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/rerum_in_libya_condicio_28577.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Rerum in Libya condicio</title>
+    <content>In diversis partibus Libyae, quin etiam Tripoli, in urbe principe, vehementes reclamationes populi contra regimen ortae sunt. Quibus perturbationibus Muammar Gaddafi, dux civitatis, crudelissime respondit, cum adversarios suos vi militari oppressurus magnam stragem civium reclamitantium fecit. Neque iam multum abesse videtur, quin in Libya bellum civile exardescat. Ipse Gaddafi orationem televisificam habuit, qua ira incensus recusavit, quominus umquam e patria sua abiret.   Idem iuravit se una cum fautoribus adversus reclamatores usque ad ultimam sanguinis guttam  pugnaturum esse et, si res postularet, in terra sua tamquam martyrem moriturum.</content>
+  </headline>
+  <news>
+    <title>Sententia Nationum Unitarum</title>
+    <content>Consilium securitatis Nationum Unitarum a Libya flagitat, ut nulla mora interposita vim suis civibus inferre desistat. Hanc declarationem, quae per totum diem Martis (22.2.) arbitris remotis praeparata erat, quindecim nationes illius consilii unanimiter divulgaverunt. Ex eodem documento id quoque patet, quam sollicitae Nationes Unitae de rerum in Libya condicione sint.</content>
+  </news>
+  <news>
+    <title>Calamitas Novae Zelandiae</title>
+    <content>In Nova Zelandia saltem sexaginta quinque homines vitam amiserunt et multa centena vulnerati sunt terrae motu die Martis facto, cuius vis amplius sex graduum Richterianorum fuisse aestimatur. Epicentrum calamitatis erat urbs Christchurch, quae in illa clade tanta detrimenta accepit, ut tota area in campum pugnae mutata esse videretur.</content>
+  </news>
+  <news>
+    <title>Colloquia Americanorum</title>
+    <content>Acta diurna Americana nomine The New Yorker  narrant legatos Civitatum Americae Unitarum in Afganistania consultationes clandestinas cum Talibanis agere. Ferunt illa colloquia iam per unum annum haberi. Americanos illa ratione usos esse ad cognoscendum, essentne inter Talibanos tales duces, cum quibus consultationes pacis iniri possent. </content>
+  </news>
+  <news>
+    <title>Putin suum montem accepit</title>
+    <content>Legati parlamentares Kirgisistaniae decreverunt, ut monti cuidam patriae suae nomen Putin ex principe ministro Russiae inderetur.  Hoc consilio capto indicare voluerunt, quam bonae relationes inter utramque nationem intercederent. Mons Putinianus multo excelsior est quam ille, qui abhinc novem annos Jeltsin appellari coeptus est in honorem praesidentis Russiae illius nominis.</content>
+  </news>
+  <news>
+    <title>De balaenis captandis</title>
+    <content>Magistratus Iaponienses statuerunt, ne hoc vere iam balaenas captare pergerent. Decretum idcirco factum esse dicitur, quod ille labor a tutatoribus animalium tantopere perturbaretur, ut piscatores in periculum vocarentur. Ordo balaenis tuendis nomine Sea Shephard nuntium cum gaudio accepit, sed ait se diligenter observaturum esse, num naves piscatoriae Iaponiensium re vera ab aquis Antarctidis domum reverterentur.</content>
+  </news>
+</broadcast>

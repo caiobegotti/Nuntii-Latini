@@ -1,1 +1,37 @@
-<broadcast><title>Conventus consociationis Nato</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20111007 08:47:00" /><meta name="corpus" value="nl_20111007_conventus_consociationis_nato.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/conventus_consociationis_nato_32334.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Conventus consociationis Nato</title><content>Die Iovis (6.10.) ministri a rebus exteris consociationis Nato Bruxellas convenerunt, ut imprimis de rebus in Libya gerendis colloquerentur. Alterum maius argumentum participantibus est deliberare, num magistratibus securitati Afganistaniae tuendae maior potestas sui defendendi detur.</content></headline><news><title>De consultationibus pacis</title><content>Regimen Israelis se consultationes pacis cum Palaestiniensibus rursus initurum esse promisit.  Quaternio, quae ex Civitatibus Americae Unitis, Russia, Unione Europaea, Nationibus Unitis constat, Israelianos hortata erat, ut utraque pars intra unum mensem de pace conveniret. Palaestinienses autem negaverunt consultationes ante incohari posse, quam Israeliani suis coloniis amplificandis finem fecissent. </content></news><news><title>Monumentum servitutis</title><content>Ordo Nationum Unitarum decrevit, ut ad memoriam eorum, qui servitutem passi essent, monumentum fieret idque in urbe New York collocaretur.  Id ideo faciendum esse censuit, quod mercatura servorum scelus extraordinarium contra genus humanum fuisset. Ad opus memoriale conficiendum certamen omnibus orbis terrarum artificibus ponetur. </content></news><news><title>Quid Vladimir Putin dixerit</title><content>Vladimir Putin, princeps minister Russiae, proposuit, ut pristinae civitates Unionis Sovieticae societatem facerent et in ‘Unionem Eurasiae’ coalescerent. Idem negavit se de Unione Sovietica restituenda loqui. “Puerile est", inquit, “id appetere, quod iam praeteriit. Eo autem tendimus, ut exemplum Unionis Europaeae secuti cooperationem inter res publicas ab Unione Sovietica separatas efficaciorem reddamus." </content></news><news><title>Novi Nobelistae medicinae</title><content>Praemium Nobelianum artis medicinae hoc anno inter tres viros doctos dividitur. Qui sunt Bruce Beutler Americanus, Jules Hoffmann Luxemburgensis, Ralph Steinman Canadensis.  Tali honore digni habiti sunt, cum explicavissent, quonam modo systema immunitatis in corpore humano fungeretur. Auxilio studiorum eorum novae rationes inventae sunt, quibus infectiones, inflammationes, cancri praevenirentur et curarentur.</content></news><news><title>De addictione iuvenum Finnorum </title><content>Pueri et puellae in Finnia iam tamdiu apud interrete, televisionem, ludos computatorios tempus terere dicuntur, ut valetudo eorum in periculum vocetur. Illa enim addictione prohibentur, quominus corpus suum satis exerceant et noctu tantum dormiant quantum opus sit. Id quoque metuendum est, ne condicio eorum mentalis illiusmodi occupationibus perturbetur.</content></news><news><title>Nundinis aringorum Helsinkienses</title><content>Postridie Kalendas  Octobres (2.10.) in Foro mercatorio urbis Helsinki nundinae haringorum, ut dicuntur, celebrari coeptae sunt. Mos talis mercatus instituendi veterrimus est, nam iam anno millesimo septingentesimo quadragesimo tertio (1743) primum accidit, ut piscatores Maris Baltici aringos et alios pisces, quos e mari captavissent, in portum Helsinkiensem veneundos apportarent. </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Conventus consociationis Nato</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20111007 08:47:00"/>
+  <meta name="corpus" value="nl_20111007_conventus_consociationis_nato.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/conventus_consociationis_nato_32334.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Conventus consociationis Nato</title>
+    <content>Die Iovis (6.10.) ministri a rebus exteris consociationis Nato Bruxellas convenerunt, ut imprimis de rebus in Libya gerendis colloquerentur. Alterum maius argumentum participantibus est deliberare, num magistratibus securitati Afganistaniae tuendae maior potestas sui defendendi detur.</content>
+  </headline>
+  <news>
+    <title>De consultationibus pacis</title>
+    <content>Regimen Israelis se consultationes pacis cum Palaestiniensibus rursus initurum esse promisit.  Quaternio, quae ex Civitatibus Americae Unitis, Russia, Unione Europaea, Nationibus Unitis constat, Israelianos hortata erat, ut utraque pars intra unum mensem de pace conveniret. Palaestinienses autem negaverunt consultationes ante incohari posse, quam Israeliani suis coloniis amplificandis finem fecissent. </content>
+  </news>
+  <news>
+    <title>Monumentum servitutis</title>
+    <content>Ordo Nationum Unitarum decrevit, ut ad memoriam eorum, qui servitutem passi essent, monumentum fieret idque in urbe New York collocaretur.  Id ideo faciendum esse censuit, quod mercatura servorum scelus extraordinarium contra genus humanum fuisset. Ad opus memoriale conficiendum certamen omnibus orbis terrarum artificibus ponetur. </content>
+  </news>
+  <news>
+    <title>Quid Vladimir Putin dixerit</title>
+    <content>Vladimir Putin, princeps minister Russiae, proposuit, ut pristinae civitates Unionis Sovieticae societatem facerent et in &#x2018;Unionem Eurasiae&#x2019; coalescerent. Idem negavit se de Unione Sovietica restituenda loqui. &#x201C;Puerile est", inquit, &#x201C;id appetere, quod iam praeteriit. Eo autem tendimus, ut exemplum Unionis Europaeae secuti cooperationem inter res publicas ab Unione Sovietica separatas efficaciorem reddamus." </content>
+  </news>
+  <news>
+    <title>Novi Nobelistae medicinae</title>
+    <content>Praemium Nobelianum artis medicinae hoc anno inter tres viros doctos dividitur. Qui sunt Bruce Beutler Americanus, Jules Hoffmann Luxemburgensis, Ralph Steinman Canadensis.  Tali honore digni habiti sunt, cum explicavissent, quonam modo systema immunitatis in corpore humano fungeretur. Auxilio studiorum eorum novae rationes inventae sunt, quibus infectiones, inflammationes, cancri praevenirentur et curarentur.</content>
+  </news>
+  <news>
+    <title>De addictione iuvenum Finnorum </title>
+    <content>Pueri et puellae in Finnia iam tamdiu apud interrete, televisionem, ludos computatorios tempus terere dicuntur, ut valetudo eorum in periculum vocetur. Illa enim addictione prohibentur, quominus corpus suum satis exerceant et noctu tantum dormiant quantum opus sit. Id quoque metuendum est, ne condicio eorum mentalis illiusmodi occupationibus perturbetur.</content>
+  </news>
+  <news>
+    <title>Nundinis aringorum Helsinkienses</title>
+    <content>Postridie Kalendas  Octobres (2.10.) in Foro mercatorio urbis Helsinki nundinae haringorum, ut dicuntur, celebrari coeptae sunt. Mos talis mercatus instituendi veterrimus est, nam iam anno millesimo septingentesimo quadragesimo tertio (1743) primum accidit, ut piscatores Maris Baltici aringos et alios pisces, quos e mari captavissent, in portum Helsinkiensem veneundos apportarent. </content>
+  </news>
+</broadcast>

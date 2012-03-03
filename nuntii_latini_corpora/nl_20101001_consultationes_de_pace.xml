@@ -1,1 +1,37 @@
-<broadcast><title>Consultationes de pace</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20101001 10:09:00" /><meta name="corpus" value="nl_20101001_consultationes_de_pace.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/consultationes_de_pace_25702.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Consultationes de pace</title><content>Benjamin Netanjahu, princeps minister Israelis, interdictum de novis domibus in coloniis Iudaeis aedificandis sustulit. Mahmud Abbas, praesidens Palaestiniensium, ob eam rem iratus se a consultationibus de pace recessurum esse minatus est. Septimana proxima apparebit, utrum consilium suum perfecturus sit necne.</content></headline><news><title>Chavez cladem accepit</title><content>Septimana vergente in Venetiola comitia parlamentaria facta sunt. Sententiis computatis apparuit eos, qui regimini adversantur, amplius tertiam partem sedium parlamentarium sibi conciliavisse. Ita socialistae una cum praesidente Hugo Chavez cladem acceperunt, cum speravissent se duas saltem votorum partes consecuturos esse. Si id iis contigisset, fieri potuit, ut terram ad suum arbitrium administrarent.</content></news><news><title>Luzhkov munus deposuit</title><content>Juri Luzhkov, praefectus urbis Moscuae, iussu praesidentis Russiae Dmitri Medvedev munus deponere coactus est. Causa dimissionis, de qua etiam princeps minister Vladimir Putin consensit, fides amissa fuisse nuntiatur. Luzhkov non ita pridem praesidentem Medvedev reprehendit censens Russiam manu fortiore regendam esse.</content></news><news><title>De minis terroristarum</title><content>E fontibus exploratoriis cognitum est terroristis propositum fuisse, ut impetum in complures urbes Europaeas uno tempore facerent. Iis in animo fuisse tam Londinium quam nonnullas metropoles Germaniae et Francogalliae aggredi. Suspicio harum insidiarum in bellatores ordinis Al-Qaida incidit, quorum castra in finibus Pakistaniae posita sunt. </content></news><news><title>De vi nucleari Suetiae</title><content>Constat in Suetia decem electrificinas nucleares esse, quarum quattuor in praesenti clausae sunt et quinta quoque mox claudetur propter quasdam difficultates technicas. Periculum est, ne proxima hieme idem fiat quod anno superiore, quo complura ergasteria nuclearia vitiis technicis laborantia omnino non fungebantur. Quae si ita erunt, Suetos energiam electricam e terris peregrinis emere necesse erit. </content></news><news><title>Navis antiqua reperta</title><content>In ora Italiae navis oneraria antiqua inventa est, quae circiter anno a.Chr. n. centesimo tricesimo in mari Italiae circumfuso submersa erat. Onus eius constabat cum e re vitrea Syriaca tum e medicamentis Graecis, quae antea nonnisi e scriptis medicorum antiquorum nota erant. In remediis etiam helianthus repertus est, quamquam opinio vetus erat eum non ante quam saeculo quinto decimo in Europam venisse. </content></news><news><title>Venatio alcium iniit</title><content>Die Saturni (25.9.) in Finnia venatio alcium initium cepit. In regionibus autem terrae septentrionalibus haec animalia iam Kalendis Septembribus probandi causa caedi coepta sunt. Existimantur amplius centum milia venatorum hoc autumno ad alces sternendas profectura esse, et praedam eorum septuaginta fere milium alcium fore creditur.</content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Consultationes de pace</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20101001 10:09:00"/>
+  <meta name="corpus" value="nl_20101001_consultationes_de_pace.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/consultationes_de_pace_25702.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Consultationes de pace</title>
+    <content>Benjamin Netanjahu, princeps minister Israelis, interdictum de novis domibus in coloniis Iudaeis aedificandis sustulit. Mahmud Abbas, praesidens Palaestiniensium, ob eam rem iratus se a consultationibus de pace recessurum esse minatus est. Septimana proxima apparebit, utrum consilium suum perfecturus sit necne.</content>
+  </headline>
+  <news>
+    <title>Chavez cladem accepit</title>
+    <content>Septimana vergente in Venetiola comitia parlamentaria facta sunt. Sententiis computatis apparuit eos, qui regimini adversantur, amplius tertiam partem sedium parlamentarium sibi conciliavisse. Ita socialistae una cum praesidente Hugo Chavez cladem acceperunt, cum speravissent se duas saltem votorum partes consecuturos esse. Si id iis contigisset, fieri potuit, ut terram ad suum arbitrium administrarent.</content>
+  </news>
+  <news>
+    <title>Luzhkov munus deposuit</title>
+    <content>Juri Luzhkov, praefectus urbis Moscuae, iussu praesidentis Russiae Dmitri Medvedev munus deponere coactus est. Causa dimissionis, de qua etiam princeps minister Vladimir Putin consensit, fides amissa fuisse nuntiatur. Luzhkov non ita pridem praesidentem Medvedev reprehendit censens Russiam manu fortiore regendam esse.</content>
+  </news>
+  <news>
+    <title>De minis terroristarum</title>
+    <content>E fontibus exploratoriis cognitum est terroristis propositum fuisse, ut impetum in complures urbes Europaeas uno tempore facerent. Iis in animo fuisse tam Londinium quam nonnullas metropoles Germaniae et Francogalliae aggredi. Suspicio harum insidiarum in bellatores ordinis Al-Qaida incidit, quorum castra in finibus Pakistaniae posita sunt. </content>
+  </news>
+  <news>
+    <title>De vi nucleari Suetiae</title>
+    <content>Constat in Suetia decem electrificinas nucleares esse, quarum quattuor in praesenti clausae sunt et quinta quoque mox claudetur propter quasdam difficultates technicas. Periculum est, ne proxima hieme idem fiat quod anno superiore, quo complura ergasteria nuclearia vitiis technicis laborantia omnino non fungebantur. Quae si ita erunt, Suetos energiam electricam e terris peregrinis emere necesse erit. </content>
+  </news>
+  <news>
+    <title>Navis antiqua reperta</title>
+    <content>In ora Italiae navis oneraria antiqua inventa est, quae circiter anno a.Chr. n. centesimo tricesimo in mari Italiae circumfuso submersa erat. Onus eius constabat cum e re vitrea Syriaca tum e medicamentis Graecis, quae antea nonnisi e scriptis medicorum antiquorum nota erant. In remediis etiam helianthus repertus est, quamquam opinio vetus erat eum non ante quam saeculo quinto decimo in Europam venisse. </content>
+  </news>
+  <news>
+    <title>Venatio alcium iniit</title>
+    <content>Die Saturni (25.9.) in Finnia venatio alcium initium cepit. In regionibus autem terrae septentrionalibus haec animalia iam Kalendis Septembribus probandi causa caedi coepta sunt. Existimantur amplius centum milia venatorum hoc autumno ad alces sternendas profectura esse, et praedam eorum septuaginta fere milium alcium fore creditur.</content>
+  </news>
+</broadcast>

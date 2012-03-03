@@ -1,1 +1,37 @@
-<broadcast><title>Regimen Syriae condemnatur</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20120224 14:02:00" /><meta name="corpus" value="nl_20120224_regimen_syriae_condemnatur.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/regimen_syriae_condemnatur_34550.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Regimen Syriae condemnatur</title><content>Coetus generalis Nationum Unitarum edicto promulgato violentiam regiminis Syriae condemnavit. Legati tamen Russorum et Sinensium contra id decretum suffragati sunt. Communi fere conventui placuit Foederi Arabico assentiri, quod censuit praesidentem Bashar al-Assad a potestate nulla mora interposita recedendum esse. Id quoque a moderatoribus Syriae flagitatum est, ne exercitus civitatis iam in suum populum saeviret, sed in stationes suas reduceretur. </content></headline><news><title>Auxilium Graecis datum</title><content>Die Lunae (20.2) inter ministros Unionis Europaeae convenit, ut Graecis alterum quoque auxilium pecuniarium concederetur, ne civitas eorum aere alieno grandissimo onerata omnino decoqueret. Summa pecuniae, quae illis dabitur, centum triginta miliarda euronum efficit. Eodem die Bruxellis etiam tractatui de cautionibus crediti inter Finniam et Graeciam subscriptum est.</content></news><news><title>Wulff munus deposuit</title><content>Christianus Wulff, praesidens foederalis Germaniae, munus deposuit. Nuntiavit de ea re, postquam actor publicus parlamentum rogavit, ut is immunitate iudiciali privaretur. Neque enim abest suspicio, quin Wulff complura commoda ab amicis suis negotiatoribus per dedecus acceperit. Ei succedere videtur Joachim Gauck, propugnator libertatis et democratiae septuaginta duos annos natus.</content></news><news><title>De petroleo Iranianorum</title><content>Iraniani Francogalliae et Britanniae petroleum suppeditare desierunt. Dubium non est, quin illo consilio facto sanctionibus ab Unione Europaea sibi impositis respondere velint. Nuntiaverunt se novos clientes habere, quibus petroleum vendituri essent. Agitur de Russis et Sinensibus, quibuscum Iraniani libenter mercaturam exercent eamque etiam augere student.</content></news><news><title>Victoria filiam peperit</title><content>Die Iovis (23.2.) prima luce Victoria, principissa Suetiae, in Instituto Carolino Stockholmiensi filiolam peperit, ut princeps Daniel, qui partui adfuerat, eodem mane magno gaudio affectus diurnariis nuntiavit. Et mater et infans bene valere dicuntur. Filia recens nata in ordine hereditario regni Suetiae a matre sua Victoria secunda est. </content></news><news><title>De antequadragesimalibus</title><content>Die Martis ((21.2.) ieiunium quadragesimale huius anni initium cepit. More solito ei magna sollemnia carnisprivia appellata antecesserunt, quorum omnium magnifentissima Rivi Ianuarii, in metropoli Brasiliae, magna pompa celebrabantur.  Huic festo intra quinque dies amplius quinque miliones hominum intererant. </content></news><news><title>Periculum in nivibus magnum</title><content>In urbe Helsinki his diebus tanta nivium vis cecidit, ut curatores viarum difficultates in iis everrendis habuerint. Huc accedit, quod nives in summis domibus coacervatae peditibus praeter aedificia ambulantibus magnum periculum inferunt. Iam una femina propter nives de tecto capiti delapsas vitam amisit.</content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Regimen Syriae condemnatur</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20120224 14:02:00"/>
+  <meta name="corpus" value="nl_20120224_regimen_syriae_condemnatur.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/regimen_syriae_condemnatur_34550.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Regimen Syriae condemnatur</title>
+    <content>Coetus generalis Nationum Unitarum edicto promulgato violentiam regiminis Syriae condemnavit. Legati tamen Russorum et Sinensium contra id decretum suffragati sunt. Communi fere conventui placuit Foederi Arabico assentiri, quod censuit praesidentem Bashar al-Assad a potestate nulla mora interposita recedendum esse. Id quoque a moderatoribus Syriae flagitatum est, ne exercitus civitatis iam in suum populum saeviret, sed in stationes suas reduceretur. </content>
+  </headline>
+  <news>
+    <title>Auxilium Graecis datum</title>
+    <content>Die Lunae (20.2) inter ministros Unionis Europaeae convenit, ut Graecis alterum quoque auxilium pecuniarium concederetur, ne civitas eorum aere alieno grandissimo onerata omnino decoqueret. Summa pecuniae, quae illis dabitur, centum triginta miliarda euronum efficit. Eodem die Bruxellis etiam tractatui de cautionibus crediti inter Finniam et Graeciam subscriptum est.</content>
+  </news>
+  <news>
+    <title>Wulff munus deposuit</title>
+    <content>Christianus Wulff, praesidens foederalis Germaniae, munus deposuit. Nuntiavit de ea re, postquam actor publicus parlamentum rogavit, ut is immunitate iudiciali privaretur. Neque enim abest suspicio, quin Wulff complura commoda ab amicis suis negotiatoribus per dedecus acceperit. Ei succedere videtur Joachim Gauck, propugnator libertatis et democratiae septuaginta duos annos natus.</content>
+  </news>
+  <news>
+    <title>De petroleo Iranianorum</title>
+    <content>Iraniani Francogalliae et Britanniae petroleum suppeditare desierunt. Dubium non est, quin illo consilio facto sanctionibus ab Unione Europaea sibi impositis respondere velint. Nuntiaverunt se novos clientes habere, quibus petroleum vendituri essent. Agitur de Russis et Sinensibus, quibuscum Iraniani libenter mercaturam exercent eamque etiam augere student.</content>
+  </news>
+  <news>
+    <title>Victoria filiam peperit</title>
+    <content>Die Iovis (23.2.) prima luce Victoria, principissa Suetiae, in Instituto Carolino Stockholmiensi filiolam peperit, ut princeps Daniel, qui partui adfuerat, eodem mane magno gaudio affectus diurnariis nuntiavit. Et mater et infans bene valere dicuntur. Filia recens nata in ordine hereditario regni Suetiae a matre sua Victoria secunda est. </content>
+  </news>
+  <news>
+    <title>De antequadragesimalibus</title>
+    <content>Die Martis ((21.2.) ieiunium quadragesimale huius anni initium cepit. More solito ei magna sollemnia carnisprivia appellata antecesserunt, quorum omnium magnifentissima Rivi Ianuarii, in metropoli Brasiliae, magna pompa celebrabantur.  Huic festo intra quinque dies amplius quinque miliones hominum intererant. </content>
+  </news>
+  <news>
+    <title>Periculum in nivibus magnum</title>
+    <content>In urbe Helsinki his diebus tanta nivium vis cecidit, ut curatores viarum difficultates in iis everrendis habuerint. Huc accedit, quod nives in summis domibus coacervatae peditibus praeter aedificia ambulantibus magnum periculum inferunt. Iam una femina propter nives de tecto capiti delapsas vitam amisit.</content>
+  </news>
+</broadcast>

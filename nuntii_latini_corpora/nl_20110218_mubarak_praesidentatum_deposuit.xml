@@ -1,1 +1,25 @@
-<broadcast><title>Mubarak praesidentatum deposuit</title><meta name="author" value="Tuomo Pekkanen" /><meta name="published" value="20110218 11:33:00" /><meta name="corpus" value="nl_20110218_mubarak_praesidentatum_deposuit.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/mubarak_praesidentatum_deposuit_28445.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Mubarak praesidentatum deposuit</title><content>Postquam cives Cairi aliisque in urbibus Aegypti duodeviginti dies reclamitaverunt, praesidens Hosni Mubarak die Veneris (11.2.) praesidentatum deponere decrevit, etsi pridie eius diei in oratione televisifica dixerat se usque ad proxima comitia praesidentialia, autumno futura, in munere mansurum esse. In reclamationibus complura centena milia Aegyptiorum interfuerant. Inter tumultus circiter trecentos homines mortuos esse relatum est. Omar Suleiman, praesidentis vicarius, in televisione praesidentem discessisse et summam potestatem exercitui translatam esse dixit.  Consilium militare, quod potestatem cepit, nuntiavit parlamentum dimissum esse et commissionem ad novam legem fundamentalem praeparandam constitutam esse.   Postea vita Aegyptiorum paulatim  suum cursum recepit, tabernae mercatorum et domus argentariae apertae sunt. Cives mutatione rerum admodum contenti esse dicuntur.  Mubarak munere relicto in urbem Sharm el-Sheikh, ubi palatium habet, abiit. Valetudo eius in exsilio  male vacillare dicitur. </content></headline><news><title>Italia fugitivis Tunesiensibus laborat</title><content>Praesidente Tunesiae expulso multa milia Tunesiensium patria relicta Italiam petiverunt. His septimanis in insulam Italiae Lampedusam complura milia fugitivorum naviculis piscatorum hominibus refertis venerunt. </content></news><news><title>Nokia et Microsoft cooperationem ineunt </title><content>Italiani, propter multitudinem usque crescentem solliciti, ab Unione Europaea auxilium petiverunt, ut diluvio advenarum finis imponeretur.  </content></news><news><title>Sinus Finnicus glacie contectus</title><content>Robertus Maroni, minister a rebus Italiae interioribus, calamitatem humanitariam timet et  monet immigrationem illegalem periculo etiam  securitati Europae interiori futuram esse. Censet propter res Tunesiae adhuc instabiles in numero immigrantium etiam terroristas et criminales forsitan  esse, qui inter tumultus ex carceribus effugerint.  </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Mubarak praesidentatum deposuit</title>
+  <meta name="author" value="Tuomo Pekkanen"/>
+  <meta name="published" value="20110218 11:33:00"/>
+  <meta name="corpus" value="nl_20110218_mubarak_praesidentatum_deposuit.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/mubarak_praesidentatum_deposuit_28445.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Mubarak praesidentatum deposuit</title>
+    <content>Postquam cives Cairi aliisque in urbibus Aegypti duodeviginti dies reclamitaverunt, praesidens Hosni Mubarak die Veneris (11.2.) praesidentatum deponere decrevit, etsi pridie eius diei in oratione televisifica dixerat se usque ad proxima comitia praesidentialia, autumno futura, in munere mansurum esse. In reclamationibus complura centena milia Aegyptiorum interfuerant. Inter tumultus circiter trecentos homines mortuos esse relatum est. Omar Suleiman, praesidentis vicarius, in televisione praesidentem discessisse et summam potestatem exercitui translatam esse dixit.  Consilium militare, quod potestatem cepit, nuntiavit parlamentum dimissum esse et commissionem ad novam legem fundamentalem praeparandam constitutam esse.   Postea vita Aegyptiorum paulatim  suum cursum recepit, tabernae mercatorum et domus argentariae apertae sunt. Cives mutatione rerum admodum contenti esse dicuntur.  Mubarak munere relicto in urbem Sharm el-Sheikh, ubi palatium habet, abiit. Valetudo eius in exsilio  male vacillare dicitur. </content>
+  </headline>
+  <news>
+    <title>Italia fugitivis Tunesiensibus laborat</title>
+    <content>Praesidente Tunesiae expulso multa milia Tunesiensium patria relicta Italiam petiverunt. His septimanis in insulam Italiae Lampedusam complura milia fugitivorum naviculis piscatorum hominibus refertis venerunt. </content>
+  </news>
+  <news>
+    <title>Nokia et Microsoft cooperationem ineunt </title>
+    <content>Italiani, propter multitudinem usque crescentem solliciti, ab Unione Europaea auxilium petiverunt, ut diluvio advenarum finis imponeretur.  </content>
+  </news>
+  <news>
+    <title>Sinus Finnicus glacie contectus</title>
+    <content>Robertus Maroni, minister a rebus Italiae interioribus, calamitatem humanitariam timet et  monet immigrationem illegalem periculo etiam  securitati Europae interiori futuram esse. Censet propter res Tunesiae adhuc instabiles in numero immigrantium etiam terroristas et criminales forsitan  esse, qui inter tumultus ex carceribus effugerint.  </content>
+  </news>
+</broadcast>

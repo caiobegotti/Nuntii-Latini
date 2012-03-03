@@ -1,1 +1,25 @@
-<broadcast><title>Germania XX annos unita</title><meta name="author" value="Tuomo Pekkanen" /><meta name="published" value="20101008 09:41:00" /><meta name="corpus" value="nl_20101008_germania_xx_annos_unita.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/germania_xx_annos_unita_25931.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Germania XX annos unita</title><content>Die Dominico (3.10.) erat anniversarium vicesimum diei, quo Germania Occidentalis (Res publica Foederata Germaniae) et Germania Orientalis (Res publica Democratica Germaniae) unitae sunt. Sollemnia principalia cancellaria foederali Angela Merkel duce in urbe Brema celebrata sunt. Unificatio initium cepit, cum Murus Berolinensis mense Novembri anno millesimo nongentesimo undenonagesimo (1989) dirutus est. Prima comitia libera in Germania Orientali mense Martio anni sequentis (1990) habita sunt.  Duobus post mensibus unio monetaria inter utramque Germaniae partem iuncta est et die tertio mensis Octobris lex Germaniae fundamentalis etiam in civitatibus Germaniae orientalibus denuo constitutis valere coepit.</content></headline><news><title>Nigeria independentiam celebravit</title><content>Nigeria Kalendis Octobribus annum independentiae quinquagesimum celebravit. Paulo ante quam sollemnia Abujae, in urbe Nigeriae principe, coeperunt, duae bombae in autocinetis positae ibi disploserunt. De illis bombis grex nomine Mend cursu electronico praemonuerat. </content></news><news><title>Comitia Brasiliae praesidentialia</title><content>Hic grex, qui in faucibus fluminis Nigris versatur, flagitat, ut opes Nigeriae petroleariae iustius dividantur. Sed postea Goodluck Jonathan, praesidens Nigeriae, nuntiavit in culpa esse parvum gregem terroristarum, qui extra fines Nigeriae agerent. Nigeria est populosissima in Africa civitas, ubi centum sexaginta miliones hominum habitant. Civitas foederalis sui iuris facta est anno millesimo nongentesimo sexagesimo.</content></news><news><title>Nova lex tabacaria</title><content>Prima suffragia comitiorum praesidentialium in Brasilia die Dominico (3.10.) acta sunt. Dilma Rouseff, candidata factionis operariorum, quae in demoscopiis ante comitia factis longe maxima apud cives gratia valebat, quadraginta sex centesimas suffragiorum accepit, Jose Serra, democrata socialis, triginta tres centesimas adeptus est. </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Germania XX annos unita</title>
+  <meta name="author" value="Tuomo Pekkanen"/>
+  <meta name="published" value="20101008 09:41:00"/>
+  <meta name="corpus" value="nl_20101008_germania_xx_annos_unita.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/germania_xx_annos_unita_25931.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Germania XX annos unita</title>
+    <content>Die Dominico (3.10.) erat anniversarium vicesimum diei, quo Germania Occidentalis (Res publica Foederata Germaniae) et Germania Orientalis (Res publica Democratica Germaniae) unitae sunt. Sollemnia principalia cancellaria foederali Angela Merkel duce in urbe Brema celebrata sunt. Unificatio initium cepit, cum Murus Berolinensis mense Novembri anno millesimo nongentesimo undenonagesimo (1989) dirutus est. Prima comitia libera in Germania Orientali mense Martio anni sequentis (1990) habita sunt.  Duobus post mensibus unio monetaria inter utramque Germaniae partem iuncta est et die tertio mensis Octobris lex Germaniae fundamentalis etiam in civitatibus Germaniae orientalibus denuo constitutis valere coepit.</content>
+  </headline>
+  <news>
+    <title>Nigeria independentiam celebravit</title>
+    <content>Nigeria Kalendis Octobribus annum independentiae quinquagesimum celebravit. Paulo ante quam sollemnia Abujae, in urbe Nigeriae principe, coeperunt, duae bombae in autocinetis positae ibi disploserunt. De illis bombis grex nomine Mend cursu electronico praemonuerat. </content>
+  </news>
+  <news>
+    <title>Comitia Brasiliae praesidentialia</title>
+    <content>Hic grex, qui in faucibus fluminis Nigris versatur, flagitat, ut opes Nigeriae petroleariae iustius dividantur. Sed postea Goodluck Jonathan, praesidens Nigeriae, nuntiavit in culpa esse parvum gregem terroristarum, qui extra fines Nigeriae agerent. Nigeria est populosissima in Africa civitas, ubi centum sexaginta miliones hominum habitant. Civitas foederalis sui iuris facta est anno millesimo nongentesimo sexagesimo.</content>
+  </news>
+  <news>
+    <title>Nova lex tabacaria</title>
+    <content>Prima suffragia comitiorum praesidentialium in Brasilia die Dominico (3.10.) acta sunt. Dilma Rouseff, candidata factionis operariorum, quae in demoscopiis ante comitia factis longe maxima apud cives gratia valebat, quadraginta sex centesimas suffragiorum accepit, Jose Serra, democrata socialis, triginta tres centesimas adeptus est. </content>
+  </news>
+</broadcast>

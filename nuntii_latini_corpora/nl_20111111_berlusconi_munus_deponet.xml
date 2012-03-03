@@ -1,1 +1,33 @@
-<broadcast><title>Berlusconi munus deponet</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20111111 12:22:00" /><meta name="corpus" value="nl_20111111_berlusconi_munus_deponet.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/berlusconi_munus_deponet_32970.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Berlusconi munus deponet</title><content>Silvio Berlusconi, princeps minister Italiae, se munus depositurum esse promisit. Eum nuntium publice dedit, postquam suffragio die Martis in parlamento facto fidem plurium delegatorum amisit et de condicione rerum cum praesidente Georgio Napolitano collocutus est. Constituit tamen loco suo remanere, donec parsimoniae et renovationes oeconomicae, quas Unio Europaea ab Italianis flagitavit, a parlamento approbarentur. Berlusconi confessus est  statum Italiae in mercatu pecuniario difficillimum esse, quam ob rem cives ad res renovandas parati esse deberent. </content></headline><news><title>Duscrimen politicum Graeciae </title><content>Etiam regimen Graeciae collapsum est, cum primus minister Georgius Papandreu propter discordias politicas a potestate discessit. Graecis nunc  tale consilium ministrorum eligendum est, quod condiciones ab Unione Europaea Graeciae positas certissime accipiet. Nisi id fecerit, periculum erit, ne auxilium pecuniarium ab Unione Europaea promissum Graecis omnino denegetur.</content></news><news><title>De rebus in Columbia factis</title><content>Ordo bellatorum in Columbia clandestinorum nomine Farc ducem suum amisit, cum Alfonso Cano, caput eius, impetu militari occisus est. Quo facto Juan Manuel Santos, praesidens civitatis, nuntiavit viam apertam  ad consultationes pacis inter regimen Columbiae et bellatores tectos ineundas esse. Hi tamen recusaverunt, quominus ictibus terroristicis, qui inde ab annis sexagesimis continuantur, finem facerent. </content></news><news><title>Asteroides Terram praeteriit</title><content>Die Mercurii multo mane asteroides maximus Terram tam prope praetervolavit, ut ab ea nonnisi trecentorum viginti milium chiliometrorum  spatium abesset. Constat Lunam a nobis longinquius distare. Astronomis iam antea persuasum erat illud corpus caeleste planetae nostrae periculo non fore.</content></news><news><title>Murray sceleris convictus</title><content>Conrad Murray, medicus cantoris popularis Michael Jackson, mortis allatae convictus est. Iudices enim Americani sententiam pronuntiaverunt, ex qua Murray, cum illi artifici dosin letalem remedii somniferi dedisset, necem ei paravisset. Quali autem poena sceleris afficiatur, adhuc sub iudice est. Michael Jackson, qui etiam rex musicae popularis appellabatur, mense Iunio anno bis millesimo nono (2009) diem supremum obiit.</content></news><news><title>Mensis October tepidior</title><content>Temperatura media mensis Octobris in Finnia paene tribus gradibus Celsianis solito altior fuit.  Aberratio  omnium maxima in Lapponia et in partibus Finniae orientalibus reperta est, cum eadem mutatio in Alandia minor esset quam in ceteris regionibus. October apud nos hoc anno iam octavum mensem continuum se praebuit, quo caelum tepidius fuit quam fieri consuevit.  </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Berlusconi munus deponet</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20111111 12:22:00"/>
+  <meta name="corpus" value="nl_20111111_berlusconi_munus_deponet.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/berlusconi_munus_deponet_32970.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Berlusconi munus deponet</title>
+    <content>Silvio Berlusconi, princeps minister Italiae, se munus depositurum esse promisit. Eum nuntium publice dedit, postquam suffragio die Martis in parlamento facto fidem plurium delegatorum amisit et de condicione rerum cum praesidente Georgio Napolitano collocutus est. Constituit tamen loco suo remanere, donec parsimoniae et renovationes oeconomicae, quas Unio Europaea ab Italianis flagitavit, a parlamento approbarentur. Berlusconi confessus est  statum Italiae in mercatu pecuniario difficillimum esse, quam ob rem cives ad res renovandas parati esse deberent. </content>
+  </headline>
+  <news>
+    <title>Duscrimen politicum Graeciae </title>
+    <content>Etiam regimen Graeciae collapsum est, cum primus minister Georgius Papandreu propter discordias politicas a potestate discessit. Graecis nunc  tale consilium ministrorum eligendum est, quod condiciones ab Unione Europaea Graeciae positas certissime accipiet. Nisi id fecerit, periculum erit, ne auxilium pecuniarium ab Unione Europaea promissum Graecis omnino denegetur.</content>
+  </news>
+  <news>
+    <title>De rebus in Columbia factis</title>
+    <content>Ordo bellatorum in Columbia clandestinorum nomine Farc ducem suum amisit, cum Alfonso Cano, caput eius, impetu militari occisus est. Quo facto Juan Manuel Santos, praesidens civitatis, nuntiavit viam apertam  ad consultationes pacis inter regimen Columbiae et bellatores tectos ineundas esse. Hi tamen recusaverunt, quominus ictibus terroristicis, qui inde ab annis sexagesimis continuantur, finem facerent. </content>
+  </news>
+  <news>
+    <title>Asteroides Terram praeteriit</title>
+    <content>Die Mercurii multo mane asteroides maximus Terram tam prope praetervolavit, ut ab ea nonnisi trecentorum viginti milium chiliometrorum  spatium abesset. Constat Lunam a nobis longinquius distare. Astronomis iam antea persuasum erat illud corpus caeleste planetae nostrae periculo non fore.</content>
+  </news>
+  <news>
+    <title>Murray sceleris convictus</title>
+    <content>Conrad Murray, medicus cantoris popularis Michael Jackson, mortis allatae convictus est. Iudices enim Americani sententiam pronuntiaverunt, ex qua Murray, cum illi artifici dosin letalem remedii somniferi dedisset, necem ei paravisset. Quali autem poena sceleris afficiatur, adhuc sub iudice est. Michael Jackson, qui etiam rex musicae popularis appellabatur, mense Iunio anno bis millesimo nono (2009) diem supremum obiit.</content>
+  </news>
+  <news>
+    <title>Mensis October tepidior</title>
+    <content>Temperatura media mensis Octobris in Finnia paene tribus gradibus Celsianis solito altior fuit.  Aberratio  omnium maxima in Lapponia et in partibus Finniae orientalibus reperta est, cum eadem mutatio in Alandia minor esset quam in ceteris regionibus. October apud nos hoc anno iam octavum mensem continuum se praebuit, quo caelum tepidius fuit quam fieri consuevit.  </content>
+  </news>
+</broadcast>

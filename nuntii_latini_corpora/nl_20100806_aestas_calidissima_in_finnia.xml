@@ -1,1 +1,37 @@
-<broadcast><title>Aestas calidissima in Finnia</title><meta name="author" value="N/A" /><meta name="published" value="20100806 08:56:00" /><meta name="corpus" value="nl_20100806_aestas_calidissima_in_finnia.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/aestas_calidissima_in_finnia_24777.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Aestas calidissima in Finnia</title><content>Haec aestas, quae adhuc continuatur, in Finnia aestuosissima fuit ac quidem ita, ut dies undetricesimus mensis Iulii (29.7.) apud nos omnium temporum calidissimus inveniretur. Tum enim ex Instituto meteorologico nuntiatum est temperaturam prope urbem Joensuu ad plus triginta septem (37,2º) gradus Celsianos ascendisse. Pristinus primatus amplius uno gradu inferior erat. Calamitates tempestatis Fieri non potuit, quin aestas calida multas calamitates secum ferret. Septimana proxime praeterita et his quoque diebus amplae regiones Finniae tonitribus vehementibus et saevis tempestatibus vexatae sunt. Quo factum est, ut multa milia domuum non solum electricitate privarentur sed etiam itinere et nexu telephonico intercluderentur. Arbores ventis caesae etiam commeatui ferriviario pessime offecerunt. Ahmadinejad vitam servavit Praesidens Iraniae Mahmud Ahmadinejad ex impetu in se facto incolumis evasit. Conamen occidendi in Irania occidentali accidit, ubi ille in comitatu autocinetorum iter faciebat. Ex improviso vir quidam ante vehiculum eius pyrobolum manualem coniecit, qui tamen praesidenti non nocuit. Perpetrator sceleris statim deprehensus est. De incendiis Russiae Moscua, urbs princeps Russiae, densa nebula fumosa obvoluta est, nam copia particularum nocivarum in aere volitantium decies tanto maior est quam fieri solet. In causa sunt incendia silvestria et terrestria, quae in variis Russiae partibus iam diu grassantur. Existimantur in Russia octingenta fere loca esse, quae in praesenti flammis delentur.   De tauromachiis Cataloniae Parlamentum Cataloniae decrevit, ne in his Hispaniae finibus iam tauromachiae instituerentur. Neque deerant, qui novae legi vehementissime repugnarent censentes illa spectacula ut ad cultum civilem nationalem pertinentia servanda esse. Vicit tamen sententia eorum, qui tauromachias nonnisi pro vexatione animalium habebant.   Colosseum reficiendum est In Italia maecenates quaeruntur, qui pecuniam suppeditent ad Amphitheatrum Flavium sive Colosseum plane reficiendum.  Propositum est, ut opera restituendi iam proximo autumno susciperetur, ne hoc aedificium celeberrimum omnino ruinam traheret. Refectio Colossei viginti quinque milionibus euronum constatura esse aestimatur, quam ob rem moderatoribus Italiae ad benefactores privatos convertendum est. Certamina Barcinonensia Kalendis Augustis (1.8.) certamina Europaea athleticae campestris, quae sex diebus Barcinone celebrabantur, ad finem venerunt. Omnium optimos athletas se praebuerunt Russi, qui decem nomismata aurea sibi conciliaverunt. Successus Finnorum ad unum nomisma aeneum redactus est: id obtinuit Tero Pitkämäki, qui in telo iaciendo tertius evasit.    Nuntii Latini PL 60 00024 YLEISRADIO FINLANDIA nuntii.latini@yle.fi  Lähetä:  Nuntii Latini, conspectus rerum internationalium hebdomadalis, est programma Radiophoniae Finnicae Generalis (YLE) in terrarum orbe unicum. Sententia tua Nobis scribe: nuntii.latini(a)yle.fi Colloquia Latina Quaere, narra, colloquere! Audi Nuntios Latinos per interrete - "Kuuntele" = "Audi" - "Lataa (mp3)" = "Extrahe (mp3)"</content></headline></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Aestas calidissima in Finnia</title>
+  <meta name="author" value="N/A"/>
+  <meta name="published" value="20100806 08:56:00"/>
+  <meta name="corpus" value="nl_20100806_aestas_calidissima_in_finnia.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/aestas_calidissima_in_finnia_24777.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Aestas calidissima in Finnia</title>
+    <content>Haec aestas, quae adhuc continuatur, in Finnia aestuosissima fuit ac quidem ita, ut dies undetricesimus mensis Iulii (29.7.) apud nos omnium temporum calidissimus inveniretur. Tum enim ex Instituto meteorologico nuntiatum est temperaturam prope urbem Joensuu ad plus triginta septem (37,2&#xBA;) gradus Celsianos ascendisse. Pristinus primatus amplius uno gradu inferior erat.</content>
+  </headline>
+  <news>
+    <title>Calamitates tempestatis</title>
+    <content>Fieri non potuit, quin aestas calida multas calamitates secum ferret. Septimana proxime praeterita et his quoque diebus amplae regiones Finniae tonitribus vehementibus et saevis tempestatibus vexatae sunt. Quo factum est, ut multa milia domuum non solum electricitate privarentur sed etiam itinere et nexu telephonico intercluderentur. Arbores ventis caesae etiam commeatui ferriviario pessime offecerunt.</content>
+  </news>
+  <news>
+    <title>Ahmadinejad vitam servavit</title>
+    <content>Praesidens Iraniae Mahmud Ahmadinejad ex impetu in se facto incolumis evasit. Conamen occidendi in Irania occidentali accidit, ubi ille in comitatu autocinetorum iter faciebat. Ex improviso vir quidam ante vehiculum eius pyrobolum manualem coniecit, qui tamen praesidenti non nocuit. Perpetrator sceleris statim deprehensus est.</content>
+  </news>
+  <news>
+    <title>De incendiis Russiae</title>
+    <content>Moscua, urbs princeps Russiae, densa nebula fumosa obvoluta est, nam copia particularum nocivarum in aere volitantium decies tanto maior est quam fieri solet. In causa sunt incendia silvestria et terrestria, quae in variis Russiae partibus iam diu grassantur. Existimantur in Russia octingenta fere loca esse, quae in praesenti flammis delentur. </content>
+  </news>
+  <news>
+    <title>De tauromachiis Cataloniae</title>
+    <content>Parlamentum Cataloniae decrevit, ne in his Hispaniae finibus iam tauromachiae instituerentur. Neque deerant, qui novae legi vehementissime repugnarent censentes illa spectacula ut ad cultum civilem nationalem pertinentia servanda esse. Vicit tamen sententia eorum, qui tauromachias nonnisi pro vexatione animalium habebant. </content>
+  </news>
+  <news>
+    <title>Colosseum reficiendum est</title>
+    <content>In Italia maecenates quaeruntur, qui pecuniam suppeditent ad Amphitheatrum Flavium sive Colosseum plane reficiendum. Propositum est, ut opera restituendi iam proximo autumno susciperetur, ne hoc aedificium celeberrimum omnino ruinam traheret. Refectio Colossei viginti quinque milionibus euronum constatura esse aestimatur, quam ob rem moderatoribus Italiae ad benefactores privatos convertendum est.</content>
+  </news>
+  <news>
+    <title>Certamina Barcinonensia</title>
+    <content>Kalendis Augustis (1.8.) certamina Europaea athleticae campestris, quae sex diebus Barcinone celebrabantur, ad finem venerunt. Omnium optimos athletas se praebuerunt Russi, qui decem nomismata aurea sibi conciliaverunt. Successus Finnorum ad unum nomisma aeneum redactus est: id obtinuit Tero Pitk&#xE4;m&#xE4;ki, qui in telo iaciendo tertius evasit. </content>
+  </news>
+</broadcast>

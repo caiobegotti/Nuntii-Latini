@@ -1,1 +1,33 @@
-<broadcast><title>Inspectores Iraniam obierunt</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20120203 16:38:00" /><meta name="corpus" value="nl_20120203_inspectores_iraniam_obierunt.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/inspectores_iraniam_obierunt_34279.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Inspectores Iraniam obierunt</title><content>Ordo internationalis ab energia atomica (IAEA) sex inspectores in Iraniam misit, qui cognoscerent, quorsum programma nucleare illius civitatis spectaret. Itinere triduano suscepto princeps legationis ait visitationem quidem bene successisse, sed adhuc multum restare, quod in Irania faciendum esset. Itaque necesse esse, ut observatores tempore proxime futuro illuc denuo proficiscerentur.  </content></headline><news><title>Tumultus in Senegalia orti</title><content>Ban Ki-moon, secretarius generalis Nationum Unitarum, de violentia in Senegalia aucta sollicitus est. Ibi enim tumultus cruenti orti sunt propter discordias ad comitia praesidentialia pertinentes. Ab una parte sunt fautores praesidentis hodierni, qui se iam tertium in idem munus creari vult, ab altera autem parte adversarii eius, qui commemorant lege fundamentali interdictum esse, ne cui tertius praesidatus daretur.  </content></news><news><title>Norvegi veniam petiverunt </title><content>Die vicesimo septimo mensis Ianuarii (27.1.) memoria eorum celebrabatur, qui persecutionibus belli mundani alterius occisi erant. Eodem die Jens Stoltenberg, princeps minister Norvegiae, a Iudaeis petivit, ut populo Norvegico ignoscerent, quod magnus numerus Iudaeorum permissu eius in campos carcerales nazistarum transportatus esset. Constat Norvegiam anno millesimo nongentesimo quadragesimo (1940) a Germanis occupatam esse. </content></news><news><title>Tota Europa frigoribus alget</title><content>Hac septimana ex Sibiria ad Europam orientalem et occidentalem versus frigora acerrima diffusa sunt, quorum vis tanta fuit, ut multa dena hominum vitam amitterent. In Ucraina numerus civium ex gelu mortuorum iam saltem triginta esse dicitur et amplius sescenti, imprimis cives domo carentes, propter hypothermiam et congelationes sibi auxilium petiverunt. </content></news><news><title>Rousseau ante CCC annos natus</title><content>Hoc anno tria saecula acta sunt, cum philosophus Jean-Jacques Rousseau natus est. Quam ob rem Genavae, in urbe eius natali, et tota Helvetia multae et magnae sollemnitates ad eum celebrandum instituuntur. Huc pertinet, quod Rousseau unus e civibus in Helvetia maxime insignibus pronuntiatus est. Ille autem vivus apud suos persona tam ingrata erat, ut complura opera eius iussu magistratuum comburerentur et is ipse rerum novarum accusatus exilio multatus sit.</content></news><news><title>De caeliscalpiis aedificandis</title><content>Magistratus et viri politici Helsinkienses studio ardenti domos celsissimas in urbe aedificandi correpti sunt. Est enim eis in animo saltem quinquaginta aedificia turrium instar in diversis partibus Helsinkii excitare. Si haec consilia perfecta erunt, non dubium erit, quin aspectus urbis valde mutetur. Sunt in Finnia alii quoque praefecti urbium, quibus aedificatio caeliscalpiorum placere videtur.</content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Inspectores Iraniam obierunt</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20120203 16:38:00"/>
+  <meta name="corpus" value="nl_20120203_inspectores_iraniam_obierunt.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/inspectores_iraniam_obierunt_34279.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Inspectores Iraniam obierunt</title>
+    <content>Ordo internationalis ab energia atomica (IAEA) sex inspectores in Iraniam misit, qui cognoscerent, quorsum programma nucleare illius civitatis spectaret. Itinere triduano suscepto princeps legationis ait visitationem quidem bene successisse, sed adhuc multum restare, quod in Irania faciendum esset. Itaque necesse esse, ut observatores tempore proxime futuro illuc denuo proficiscerentur.  </content>
+  </headline>
+  <news>
+    <title>Tumultus in Senegalia orti</title>
+    <content>Ban Ki-moon, secretarius generalis Nationum Unitarum, de violentia in Senegalia aucta sollicitus est. Ibi enim tumultus cruenti orti sunt propter discordias ad comitia praesidentialia pertinentes. Ab una parte sunt fautores praesidentis hodierni, qui se iam tertium in idem munus creari vult, ab altera autem parte adversarii eius, qui commemorant lege fundamentali interdictum esse, ne cui tertius praesidatus daretur.  </content>
+  </news>
+  <news>
+    <title>Norvegi veniam petiverunt </title>
+    <content>Die vicesimo septimo mensis Ianuarii (27.1.) memoria eorum celebrabatur, qui persecutionibus belli mundani alterius occisi erant. Eodem die Jens Stoltenberg, princeps minister Norvegiae, a Iudaeis petivit, ut populo Norvegico ignoscerent, quod magnus numerus Iudaeorum permissu eius in campos carcerales nazistarum transportatus esset. Constat Norvegiam anno millesimo nongentesimo quadragesimo (1940) a Germanis occupatam esse. </content>
+  </news>
+  <news>
+    <title>Tota Europa frigoribus alget</title>
+    <content>Hac septimana ex Sibiria ad Europam orientalem et occidentalem versus frigora acerrima diffusa sunt, quorum vis tanta fuit, ut multa dena hominum vitam amitterent. In Ucraina numerus civium ex gelu mortuorum iam saltem triginta esse dicitur et amplius sescenti, imprimis cives domo carentes, propter hypothermiam et congelationes sibi auxilium petiverunt. </content>
+  </news>
+  <news>
+    <title>Rousseau ante CCC annos natus</title>
+    <content>Hoc anno tria saecula acta sunt, cum philosophus Jean-Jacques Rousseau natus est. Quam ob rem Genavae, in urbe eius natali, et tota Helvetia multae et magnae sollemnitates ad eum celebrandum instituuntur. Huc pertinet, quod Rousseau unus e civibus in Helvetia maxime insignibus pronuntiatus est. Ille autem vivus apud suos persona tam ingrata erat, ut complura opera eius iussu magistratuum comburerentur et is ipse rerum novarum accusatus exilio multatus sit.</content>
+  </news>
+  <news>
+    <title>De caeliscalpiis aedificandis</title>
+    <content>Magistratus et viri politici Helsinkienses studio ardenti domos celsissimas in urbe aedificandi correpti sunt. Est enim eis in animo saltem quinquaginta aedificia turrium instar in diversis partibus Helsinkii excitare. Si haec consilia perfecta erunt, non dubium erit, quin aspectus urbis valde mutetur. Sunt in Finnia alii quoque praefecti urbium, quibus aedificatio caeliscalpiorum placere videtur.</content>
+  </news>
+</broadcast>
