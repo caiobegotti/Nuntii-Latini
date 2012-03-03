@@ -38,7 +38,7 @@ The following "tags" are used throughout the corpora, so you will need to ignore
 Known bugs
 ----------
 
-The following broadcasts are known to have problems in their scrapped data:
+The following broadcasts are known to have problems in their scrapped data. Some old pages have titles using ``<h4>`.
 
 http://yle.fi/radio1/tiede/nuntii_latini/mario_monti_primus_minister_33069.html
 
