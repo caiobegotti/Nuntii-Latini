@@ -16,7 +16,7 @@ def get_news_urls():
     urls = urls[:-1]
     return urls[:3]
 
-def get_news_titles(urls):
+def get_articles_titles(urls):
     titles = []
     for u in urls:
         page = etree.parse(u, etree.HTMLParser(encoding='utf-8'))
@@ -25,7 +25,7 @@ def get_news_titles(urls):
             titles.append(p)
     return titles
 
-def get_news_dates(urls):
+def get_articles_dates(urls):
     dates = []
     for u in urls:
         page = etree.parse(u, etree.HTMLParser(encoding='utf-8'))
@@ -35,8 +35,8 @@ def get_news_dates(urls):
     return dates
 
 urls = get_news_urls()
-dates = get_news_dates(urls)
-titles = get_news_titles(urls)
+dates = get_articles_dates(urls)
+titles = get_articles_titles(urls)
 data = zip(titles, dates, urls)
 for d in data:
     print d
