@@ -4,7 +4,7 @@
 # this shell scrapper is under public domain, go wild
 # caio begotti <caio1982@gmail.com>
 
-import re
+from re import compile, findall, sub
 
 from elementtree.SimpleXMLWriter import XMLWriter
 
@@ -19,12 +19,21 @@ def get_news_urls():
     for p in path:
         urls.append('http://yle.fi' + p)
     urls = urls[:-1]
-    return urls
+    return urls[:2]
 
 def get_articles_dates(u):
     page = etree.parse(u, etree.HTMLParser(encoding='utf-8'))
     path = page.xpath("//div[@class='block-module clearfix']/p[@class='published']//text()")
     res = path[0].replace('JULKAISTU ','').replace('KLO ','').replace('.','/', 2).replace('.',':')
+   
+    regex = compile("(\d{2})/(\d{2})/(\d{4})")
+    fields = regex.findall(res)[0]
+    iso = fields[2] + fields[1] + fields[0]
+
+    regex = compile("\d{2}:\d{2}")
+    date = regex.findall(res)[0] + ':00'
+
+    res = '%s %s' % (iso, date)
     return res
 
 def get_articles_title(url):
@@ -52,7 +61,7 @@ def get_subnews_author(url):
     page = etree.parse(url, etree.HTMLParser(encoding='utf-8'))
     path = page.xpath("//p[starts-with(text(),'(')]//text()")
     for p in path:
-        res = re.sub(r'[^\w ]', '', p)
+        res = sub(r'[^\w ]', '', p)
         authors.append(res)
     if len(authors) > 1:
         return authors
