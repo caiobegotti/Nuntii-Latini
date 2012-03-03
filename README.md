@@ -36,7 +36,7 @@ Broadcast is the post of the day, containing more than one news. Title is the ti
 Known bugs
 ----------
 
-The following broadcasts are known to have problems in their scrapped data. Some old pages have titles using ``h4` for news titles or even not nodes at all. E.g.:
+The following broadcasts are known to have problems in their scrapped data. Some old pages have titles using `h4` for news titles, while others have no nodes at all! E.g.:
 
 http://yle.fi/radio1/tiede/nuntii_latini/aestas_calidissima_in_finnia_24777.html
 
