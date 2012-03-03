@@ -10,17 +10,32 @@ To my knowledge, Nuntii Latini only publishes news in Classical Latin. Do no try
 Format
 ------
 
+The corpora is a set of human-readable files in XML format. Every post is in a distinct file and they all use the following structure:
+
+```
+<broadcast>
+    <title></title>
+    <meta name="author" value=""/>
+    <meta name="published" value=""/>
+    <meta name="corpus" value=""/>
+    <meta name="source" value=""/>
+    <meta name="generator" value=""/>
+    <headline>
+        <title></title>
+        <content></content>
+    </headline>
+    <news>
+        <title></title>
+        <content></content>
+    </news>
+</broadcast>
+```
+
+Broadcast is the post of the day, containing more than one news. Title is the title of this set of news. The meta tags contain informative data about the broadcast. Headline is the title of the main news of the day, so far the first one, and it will contain its title and the body of this main news. News is the block where subnews will appear, with their titles and content as well. However please notice we may have multiple news inside the same broadcast.
+
 The following "tags" are used throughout the corpora, so you will need to ignore them when doing your natural language processing magic:
-
-* TITLE: the title of broadcast of the day
-* PUBLISHED: metadata about its publishing date and time
-* HEADER: title of secondary news of the day
-* PARAGRAPH: the first without a header is for the main article, others appear after a header only
-* AUTHOR: the name of the person who published the article
-
-All corpora are in plain texts without blank lines.
 
 Contributing
 ------------
 
-I'd really love to convert this scrapper into one written in Python, using Scrapy.org (which I actually used in the very beginning but doing it in shell was way faster). Wanna help me to do it? :-)
+I'm really looking for a way to scrap posts older than July 2010. If you have any idea on it please get in touch!
