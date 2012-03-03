@@ -19,12 +19,13 @@ def get_news_urls():
     for p in path:
         urls.append('http://yle.fi' + p)
     urls = urls[:-1]
-    return urls[:5]
+    return urls
 
 def get_articles_dates(u):
     page = etree.parse(u, etree.HTMLParser(encoding='utf-8'))
     path = page.xpath("//div[@class='block-module clearfix']/p[@class='published']//text()")
-    return path[0]
+    res = path[0].replace('JULKAISTU ','').replace('KLO ','').replace('.','/', 2).replace('.',':')
+    return res
 
 def get_articles_title(url):
     page = etree.parse(url, etree.HTMLParser(encoding='utf-8'))
