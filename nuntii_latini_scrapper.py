@@ -9,7 +9,7 @@ from re import compile, findall, sub
 from elementtree.SimpleXMLWriter import XMLWriter
 
 from lxml import etree
-from lxml.html import tostring
+from lxml.html import tostring, fromstring
 
 def get_news_urls():
     urls = []
@@ -43,16 +43,20 @@ def get_articles_title(url):
 
 def get_subnews_titles(url):
     page = etree.parse(url, etree.HTMLParser(encoding='utf-8'))
-    path = page.xpath("//h3//text()")
+    path = page.xpath("//h3//text() | //h4//text()")
     return path[:-3]
 
 def get_articles_content(url):
     page = etree.parse(url, etree.HTMLParser(encoding='utf-8'))
+    tree = tostring(page, encoding='unicode', method='html', pretty_print=True).replace('h4>','h3>')
+    page = fromstring(tree)
     path = page.xpath("//div[@class='kuuntele-netissa']/following::p[not(preceding::h3) and not(starts-with(text(),'(')) and not(contains(text(),'Tuomo')) and not(contains(text(),'Reijo'))]//text()")
     return path
 
 def get_subnews_content(url):
     page = etree.parse(url, etree.HTMLParser(encoding='utf-8'))
+    tree = tostring(page, encoding='unicode', method='html', pretty_print=True).replace('h4>','h3>')
+    page = fromstring(tree)
     path = page.xpath("//h3/following-sibling::p[not(starts-with(text(),'(')) and not(contains(text(),'Tuomo')) and not(contains(text(),'Reijo'))]//text()[1]")
     return path[:-5]
 
