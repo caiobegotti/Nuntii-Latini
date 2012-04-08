@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Nuntii Latini by caio1982</title>
+    
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Nuntii Latini</h1>
+        <p>Corpora of modern news in Classical Latin</p>
+        <p class="view"><a href="https://github.com/caio1982/Nuntii-Latini">View the Project on GitHub <small>caio1982/Nuntii-Latini</small></a></p>
+        <ul>
+          <li><a href="https://github.com/caio1982/Nuntii-Latini/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/caio1982/Nuntii-Latini/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/caio1982/Nuntii-Latini">Fork On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>About</h1>
+
+<p>Nuntii Latini is a news broadcast in Latin brought to you by some crazy Finnish. Although active for over 20 years they have no public archives with all their texts, you have to buy two or three ridiculously old books with limited news content instead. These are scrapped corpora of news between mid-2010 to 2012, which you can easily analyze with tools such as NLTK.</p>
+
+<p>As of today the corpora contain about 32.000 tokens (300kb of text). A decent set of corpora contains at least 80.000 usable tokens, so there's plenty of room for improvement, specially trying to scrap even older news posts (pre-June 2010).</p>
+
+<p>To my knowledge, Nuntii Latini only publishes news in Classical Latin. Do no try to run ecclesiastical parsers or anything like that on these files, unless you know what you're doing.</p>
+
+<h2>Format</h2>
+
+<p>The corpora are human-readable files in XML format. Every post is in a distinct file and they all use the following structure:</p>
+
+<pre><code>&lt;broadcast&gt;
+    &lt;title&gt;&lt;/title&gt;
+    &lt;meta name="author" value=""/&gt;
+    &lt;meta name="published" value=""/&gt;
+    &lt;meta name="corpus" value=""/&gt;
+    &lt;meta name="source" value=""/&gt;
+    &lt;meta name="generator" value=""/&gt;
+    &lt;headline&gt;
+        &lt;title&gt;&lt;/title&gt;
+        &lt;content&gt;&lt;/content&gt;
+    &lt;/headline&gt;
+    &lt;news&gt;
+        &lt;title&gt;&lt;/title&gt;
+        &lt;content&gt;&lt;/content&gt;
+    &lt;/news&gt;
+&lt;/broadcast&gt;
+</code></pre>
+
+<p>Broadcast is the post of the day, containing more than one news. Title is the title of this set of news. The meta tags contain informative data about the broadcast. Headline is the title of the main news of the day, so far the first one, and it will contain its title and the body of this main news. News is the block where subnews will appear, with their titles and content as well. However please notice we may have multiple news inside the same broadcast.</p>
+
+<h2>Known bugs</h2>
+
+<p>The following broadcasts are known to have problems in their scrapped data. Some old pages have titles using <code>h4</code> for news titles, while others have no nodes at all! E.g.:</p>
+
+<p><a href="http://yle.fi/radio1/tiede/nuntii_latini/aestas_calidissima_in_finnia_24777.html">http://yle.fi/radio1/tiede/nuntii_latini/aestas_calidissima_in_finnia_24777.html</a></p>
+
+<h2>Contributing</h2>
+
+<p>I'm really looking for a way to scrap posts older than July 2010. If you have any idea on it please get in touch!</p>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/caio1982">caio1982</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
