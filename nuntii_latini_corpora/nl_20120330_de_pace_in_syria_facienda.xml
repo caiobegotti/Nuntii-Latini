@@ -1,1 +1,33 @@
-<broadcast><title>De pace in Syria facienda</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20120330 11:24:00" /><meta name="corpus" value="nl_20120330_de_pace_in_syria_facienda.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/de_pace_in_syria_facienda_35170.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>De pace in Syria facienda</title><content>Consilium pacis in Syria componendae, quod Kofi Annan, pristinus secretarius generalis Nationum Unitarum, nuperrime adumbravit, a regimine Syriae approbatum est. Illud propositum in sex partes divisum etiam favorem Consilii securitatis Nationum Unitarum sibi conciliavit. Inter consultationes convenit, ut actionibus in Syria militaribus finis imponeretur et primi progressus politici ad pacem restituendam fierent.</content></headline><news><title>Benedictus XVI Cubam obiit</title><content>Pontifex maximus Benedictus XVI itinere in Americam Latinam suscepto etiam Cubam obiit, ubi una cum praesidente Raul Castro de variis argumentis colloquebatur. Quod autem fuisset caput illorum sermonum, in publico positum non est. Sunt tamen, qui opinentur eos deliberavisse, quales partes ecclesia catholica in rebus Cubanis agerent. Die Mercurii (28.3.) papa Benedictus, antequam domum proficisceretur, Habanae, in urbe principe, missam sollemnem celebravit. </content></news><news><title>Quid praesidens Niinistö dixerit</title><content>Praesidens Finniae Sauli Niinistö, dum Coream Meridianam visitat, ait res Europaeas paulatim in prosperius mutari. Iam in eo esse, ut civitates Unionis Europaeae e difficultatibus oeconomicis se reciperent et in fidem pristinam redirent. Addidit Finniam et Coream Meridianam tam eruditione quam investigatione scientifica inter ceteras civitates eminere. Quae cum ita essent, societates mercatorias Coreanas hortatus est, ut pecuniam in negotiis in Finnia gerendis collocarent.</content></news><news><title>Potio cafeae valetudini prodest</title><content>Si quis  multum cafeae, id est amplius quaterna pocilla, cotidie bibit, tutior adversus diabeten adultorum esse videtur quam is, qui minorem huius potionis  copiam singulis diebus consumit. Quod patet ex investigatione a medicis Germanis divulgata, cui circiter quadraginta tria milia Europaeorum intererant. Neque potatio cafeae, quamvis acerrima esset, valetudini cuiusquam ullo modo nocebat.</content></news><news><title>De studiis Russorum peregrinis </title><content>Parentes Russi ditiores magis magisque liberos suos in terras peregrinas studendi causa mittere solent. Neque hoc solum ad Moscuam et Petropolim valet, sed ad totam Russiam inde a Sibiria usque ad urbem Kalinigradum. Maior pars eorum Britanniam petit, ut occasionem scholas ibidem frequentandi nanciscatur et variis cursibus linguarum interesse possit.</content></news><news><title>Quercus in Finnia crebrescit</title><content>Quercus in silvis Finniae meridianae sua sponte crebrescere coepit, quod fortasse mutationi climaticae tribuendum est. Quae arbor nobilis apud nos adhuc admodum raro colitur, cum plantae eius ad silviculturam exercendam carissime constent et magnum sit periculum, ne plantationes propter varias causas omnino deleantur. </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>De pace in Syria facienda</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20120330 11:24:00"/>
+  <meta name="corpus" value="nl_20120330_de_pace_in_syria_facienda.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/de_pace_in_syria_facienda_35170.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>De pace in Syria facienda</title>
+    <content>Consilium pacis in Syria componendae, quod Kofi Annan, pristinus secretarius generalis Nationum Unitarum, nuperrime adumbravit, a regimine Syriae approbatum est. Illud propositum in sex partes divisum etiam favorem Consilii securitatis Nationum Unitarum sibi conciliavit. Inter consultationes convenit, ut actionibus in Syria militaribus finis imponeretur et primi progressus politici ad pacem restituendam fierent.</content>
+  </headline>
+  <news>
+    <title>Benedictus XVI Cubam obiit</title>
+    <content>Pontifex maximus Benedictus XVI itinere in Americam Latinam suscepto etiam Cubam obiit, ubi una cum praesidente Raul Castro de variis argumentis colloquebatur. Quod autem fuisset caput illorum sermonum, in publico positum non est. Sunt tamen, qui opinentur eos deliberavisse, quales partes ecclesia catholica in rebus Cubanis agerent. Die Mercurii (28.3.) papa Benedictus, antequam domum proficisceretur, Habanae, in urbe principe, missam sollemnem celebravit. </content>
+  </news>
+  <news>
+    <title>Quid praesidens Niinist&#xF6; dixerit</title>
+    <content>Praesidens Finniae Sauli Niinist&#xF6;, dum Coream Meridianam visitat, ait res Europaeas paulatim in prosperius mutari. Iam in eo esse, ut civitates Unionis Europaeae e difficultatibus oeconomicis se reciperent et in fidem pristinam redirent. Addidit Finniam et Coream Meridianam tam eruditione quam investigatione scientifica inter ceteras civitates eminere. Quae cum ita essent, societates mercatorias Coreanas hortatus est, ut pecuniam in negotiis in Finnia gerendis collocarent.</content>
+  </news>
+  <news>
+    <title>Potio cafeae valetudini prodest</title>
+    <content>Si quis  multum cafeae, id est amplius quaterna pocilla, cotidie bibit, tutior adversus diabeten adultorum esse videtur quam is, qui minorem huius potionis  copiam singulis diebus consumit. Quod patet ex investigatione a medicis Germanis divulgata, cui circiter quadraginta tria milia Europaeorum intererant. Neque potatio cafeae, quamvis acerrima esset, valetudini cuiusquam ullo modo nocebat.</content>
+  </news>
+  <news>
+    <title>De studiis Russorum peregrinis </title>
+    <content>Parentes Russi ditiores magis magisque liberos suos in terras peregrinas studendi causa mittere solent. Neque hoc solum ad Moscuam et Petropolim valet, sed ad totam Russiam inde a Sibiria usque ad urbem Kalinigradum. Maior pars eorum Britanniam petit, ut occasionem scholas ibidem frequentandi nanciscatur et variis cursibus linguarum interesse possit.</content>
+  </news>
+  <news>
+    <title>Quercus in Finnia crebrescit</title>
+    <content>Quercus in silvis Finniae meridianae sua sponte crebrescere coepit, quod fortasse mutationi climaticae tribuendum est. Quae arbor nobilis apud nos adhuc admodum raro colitur, cum plantae eius ad silviculturam exercendam carissime constent et magnum sit periculum, ne plantationes propter varias causas omnino deleantur. </content>
+  </news>
+</broadcast>
