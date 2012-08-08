@@ -1,1 +1,37 @@
-<broadcast><title>Bellum domesticum Syriae</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20120615 08:00:00" /><meta name="corpus" value="nl_20120615_bellum_domesticum_syriae.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/bellum_domesticum_syriae_36308.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Bellum domesticum Syriae</title><content>Syria iam bello domestico ardet, ut ait Hervé Ladsous, subsecretarius Nationum Unitarum a consiliis pacis tuendae. Idem ordo nuperrime relationem divulgavit, qua exercitus Syriae accusatur, quod pueris et puellis clipeo humano adversus seditiosos usus sit. Itaque Syria in indicem earum civitatum addita est, quae in conflictibus militaribus parvis liberis abutuntur eosdemque non solum cruciant, sed etiam interficiunt. </content></headline><news><title>Hispania auxilium petivit</title><content>Regimen Hispaniae ab Unione Europaea versuram necessitatis facere constituit, ut argentariis civitatis suae succurreret. Summa pecuniae, qua ad hanc rem opus est, circiter centum miliarda euronum efficere existimatur. Agitur de quarta civitate, cui ad oeconomiam suam stabiliendam ad auxilium Unionis Europaeae confugiendum est. Reliquae tres sunt Graecia, Irlandia, Portugallia.</content></news><news><title>Institutio linguae Curdorum </title><content>Moderatores Turciae nuntiaverunt nihil iam impedire, quominus in scholis Turcicis lingua Curdorum disceretur. Recep Erdogan, princeps minister, illud decretum progressum historicum descripsit. Constat Curdos in Turcia habitantes inde ab anno millesimo nongentesimo octogesimo quarto (1984) pro autonomia sua pugnavisse.</content></news><news><title>Autonomia Alandiae XC annorum</title><content>Die Saturni (9.6.) nonaginta anni acti erant, cum Alandia, provincia insularis Finniae, autonomiam accepit. Die enim nono mensis Iunii anno millesimo nongentesimo vicesimo secundo (9.6.1922) accidit, ut Alandenses primum concilium commune agerent. Iam anno priore Foedus nationum decreverat, ut Alandia ad Finniam pertineret eaque ius haberet et linguam Sueticam conservandi et suis legibus partim utendi. </content></news><news><title>Rubus chamaemorus rarus factus</title><content>Proventus Rubi chamaemori duobus autumnis continuis tam exiguus fuit, ut copiae harum bacarum non modo in Finnia verum etiam per totam plagam arctoam proxima hieme exhaurirentur. Haec inopia difficultates fabricandi multis operibus mercatoriis paravit. Magni interest, ut messis huius anni felicior sit. Primas bacas in Lapponia mense Iulio exeunte maturitatem assecuturas creditur.</content></news><news><title>Certamina pedifollica Europaea</title><content>Certamina Europaea de principatu pedifollico in Polonia et Ucraina initium ceperunt. Huic magno eventui, qui quarto quoque anno instituitur, omnino sedecim greges nationales intersunt, in iis cohors Hispanorum, quae victoriam prioribus ludis reportatam defendit. Prima dimicatio die Veneris (8.6.) inter Graecos et Polonos commissa incerto eventu finita est. </content></news><news><title>Nuntii Latini ad ferias abeunt</title><content>Nuntii Latini ob ferias aestivas ad sex septimanas intermittuntur, quam ob rem proxima emissio non ante quam die tertio mensis Augusti (3.8.) fiet. Restat, ut auscultatoribus nostris gratias quam maximas agamus et iisdem aestatem quam iucundissimam exoptemus. </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Bellum domesticum Syriae</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20120615 08:00:00"/>
+  <meta name="corpus" value="nl_20120615_bellum_domesticum_syriae.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/bellum_domesticum_syriae_36308.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Bellum domesticum Syriae</title>
+    <content>Syria iam bello domestico ardet, ut ait Herv&#xE9; Ladsous, subsecretarius Nationum Unitarum a consiliis pacis tuendae. Idem ordo nuperrime relationem divulgavit, qua exercitus Syriae accusatur, quod pueris et puellis clipeo humano adversus seditiosos usus sit. Itaque Syria in indicem earum civitatum addita est, quae in conflictibus militaribus parvis liberis abutuntur eosdemque non solum cruciant, sed etiam interficiunt. </content>
+  </headline>
+  <news>
+    <title>Hispania auxilium petivit</title>
+    <content>Regimen Hispaniae ab Unione Europaea versuram necessitatis facere constituit, ut argentariis civitatis suae succurreret. Summa pecuniae, qua ad hanc rem opus est, circiter centum miliarda euronum efficere existimatur. Agitur de quarta civitate, cui ad oeconomiam suam stabiliendam ad auxilium Unionis Europaeae confugiendum est. Reliquae tres sunt Graecia, Irlandia, Portugallia.</content>
+  </news>
+  <news>
+    <title>Institutio linguae Curdorum </title>
+    <content>Moderatores Turciae nuntiaverunt nihil iam impedire, quominus in scholis Turcicis lingua Curdorum disceretur. Recep Erdogan, princeps minister, illud decretum progressum historicum descripsit. Constat Curdos in Turcia habitantes inde ab anno millesimo nongentesimo octogesimo quarto (1984) pro autonomia sua pugnavisse.</content>
+  </news>
+  <news>
+    <title>Autonomia Alandiae XC annorum</title>
+    <content>Die Saturni (9.6.) nonaginta anni acti erant, cum Alandia, provincia insularis Finniae, autonomiam accepit. Die enim nono mensis Iunii anno millesimo nongentesimo vicesimo secundo (9.6.1922) accidit, ut Alandenses primum concilium commune agerent. Iam anno priore Foedus nationum decreverat, ut Alandia ad Finniam pertineret eaque ius haberet et linguam Sueticam conservandi et suis legibus partim utendi. </content>
+  </news>
+  <news>
+    <title>Rubus chamaemorus rarus factus</title>
+    <content>Proventus Rubi chamaemori duobus autumnis continuis tam exiguus fuit, ut copiae harum bacarum non modo in Finnia verum etiam per totam plagam arctoam proxima hieme exhaurirentur. Haec inopia difficultates fabricandi multis operibus mercatoriis paravit. Magni interest, ut messis huius anni felicior sit. Primas bacas in Lapponia mense Iulio exeunte maturitatem assecuturas creditur.</content>
+  </news>
+  <news>
+    <title>Certamina pedifollica Europaea</title>
+    <content>Certamina Europaea de principatu pedifollico in Polonia et Ucraina initium ceperunt. Huic magno eventui, qui quarto quoque anno instituitur, omnino sedecim greges nationales intersunt, in iis cohors Hispanorum, quae victoriam prioribus ludis reportatam defendit. Prima dimicatio die Veneris (8.6.) inter Graecos et Polonos commissa incerto eventu finita est. </content>
+  </news>
+  <news>
+    <title>Nuntii Latini ad ferias abeunt</title>
+    <content>Nuntii Latini ob ferias aestivas ad sex septimanas intermittuntur, quam ob rem proxima emissio non ante quam die tertio mensis Augusti (3.8.) fiet. Restat, ut auscultatoribus nostris gratias quam maximas agamus et iisdem aestatem quam iucundissimam exoptemus. </content>
+  </news>
+</broadcast>
