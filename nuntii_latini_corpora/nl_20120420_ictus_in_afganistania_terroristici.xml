@@ -1,1 +1,33 @@
-<broadcast><title>Ictus in Afganistania terroristici</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20120420 17:04:00" /><meta name="corpus" value="nl_20120420_ictus_in_afganistania_terroristici.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/ictus_in_afganistania_terroristici_35485.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Ictus in Afganistania terroristici</title><content>Die Dominico (15.4.) tota fere Afganistania ictibus terroristicis concussa est. Omnium maxima damna accepit urbs princeps Cabura, ubi imprimis parlamentum civitatis et diversae sedes diplomaticae petebantur. Auctores harum aggressionum erant Talibani, islamistae extremi, quos iam multos annos contra regimen Afganistaniae et milites ibidem peregrinos rebellare constat. Ad extremum tamen copiis securitatis contigit, ut omnes terroristas occiderent. </content></headline><news><title>Observatores in Syriam mittuntur</title><content>Ordo Nationum Unitarum etiam Finniam rogavit, ut observatores militares in Syriam mitteret, quorum esset ignistitium inter partes bellantes factum custodire. Neque moderatores civitatis nostrae dubitaverunt, quin veniam petenti darent. Quot autem Finni primo agmini interfuturi sint, nondum constat.  Praesidens Syriae Bashar al-Assad nuntiavit se observatores salvere iubere, dummodo sibi et suis huic actioni pari passu adesse liceret. </content></news><news><title>Genus malariae periculosissimum</title><content>Malaria, quae medicamento nomine artemisino resistere valet, in Asia grassari coepit. Tale genus illius morbi primum non nisi in Cambogia reperiebatur, sed iam eo ventum est, ut etiam in fines Thailandiae et Myanmariae diffunderetur.  Quem rerum progressum periculosissimum putaveris, si respicis curam malariae imprimis in usu artemisini positam esse.</content></news><news><title>Niinistö iter in Suetiam suscepit</title><content>Hac septimana praesidens Finniae Sauli Niinistö cum coniuge Jenni Haukio iter statale biduanum in Suetiam suscepit. Hi, cum in aeriportu Arlandensi a principe Daniele et ministro Carolo Bildt recepti essent, ad stabula aulica in mediam Stockholmiam ducti sunt. Inde una cum rege Carolo XVI Gustavo et regina Silvia in domum regiam plaustro vehebantur. Postquam cohors honoraria in area ante palatium sita salutata est, rex hospitibus prandium privatum obtulit. </content></news><news><title>Ova dinosauri in Caucaso inventa</title><content>Investigatores universitatis Tzetzeniae se circiter quadraginta ova dinosauri in Caucaso septentrionali invenisse autumaverunt. Ex imaginibus televisificis patet ea lapidibus rotundis similia esse et diametro inter viginti quinque centimetra et unum metrum variare. Ova illa casu in lucem venerunt, cum operarii viam novam munientes rupem quandam explodebant.    </content></news><news><title>De inundationibus in Finnia  vernis</title><content>Iam tempus adest, cum flumina glacie dissoluta multis locis Finniae meridianae agros inundare incipiunt. In Bothnia autem, ubi rerum condicio propter ripas fluviorum depressas pessima esse solet, caelum his diebus tam frigidum fuit, ut diluvia verna maiora septimana demum proxime futura exspectentur. In regionibus maxime septentrionalibus amnes non ante quam mense Maio supra ripas effundentur.</content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Ictus in Afganistania terroristici</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20120420 17:04:00"/>
+  <meta name="corpus" value="nl_20120420_ictus_in_afganistania_terroristici.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/ictus_in_afganistania_terroristici_35485.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Ictus in Afganistania terroristici</title>
+    <content>Die Dominico (15.4.) tota fere Afganistania ictibus terroristicis concussa est. Omnium maxima damna accepit urbs princeps Cabura, ubi imprimis parlamentum civitatis et diversae sedes diplomaticae petebantur. Auctores harum aggressionum erant Talibani, islamistae extremi, quos iam multos annos contra regimen Afganistaniae et milites ibidem peregrinos rebellare constat. Ad extremum tamen copiis securitatis contigit, ut omnes terroristas occiderent. </content>
+  </headline>
+  <news>
+    <title>Observatores in Syriam mittuntur</title>
+    <content>Ordo Nationum Unitarum etiam Finniam rogavit, ut observatores militares in Syriam mitteret, quorum esset ignistitium inter partes bellantes factum custodire. Neque moderatores civitatis nostrae dubitaverunt, quin veniam petenti darent. Quot autem Finni primo agmini interfuturi sint, nondum constat.  Praesidens Syriae Bashar al-Assad nuntiavit se observatores salvere iubere, dummodo sibi et suis huic actioni pari passu adesse liceret. </content>
+  </news>
+  <news>
+    <title>Genus malariae periculosissimum</title>
+    <content>Malaria, quae medicamento nomine artemisino resistere valet, in Asia grassari coepit. Tale genus illius morbi primum non nisi in Cambogia reperiebatur, sed iam eo ventum est, ut etiam in fines Thailandiae et Myanmariae diffunderetur.  Quem rerum progressum periculosissimum putaveris, si respicis curam malariae imprimis in usu artemisini positam esse.</content>
+  </news>
+  <news>
+    <title>Niinist&#xF6; iter in Suetiam suscepit</title>
+    <content>Hac septimana praesidens Finniae Sauli Niinist&#xF6; cum coniuge Jenni Haukio iter statale biduanum in Suetiam suscepit. Hi, cum in aeriportu Arlandensi a principe Daniele et ministro Carolo Bildt recepti essent, ad stabula aulica in mediam Stockholmiam ducti sunt. Inde una cum rege Carolo XVI Gustavo et regina Silvia in domum regiam plaustro vehebantur. Postquam cohors honoraria in area ante palatium sita salutata est, rex hospitibus prandium privatum obtulit. </content>
+  </news>
+  <news>
+    <title>Ova dinosauri in Caucaso inventa</title>
+    <content>Investigatores universitatis Tzetzeniae se circiter quadraginta ova dinosauri in Caucaso septentrionali invenisse autumaverunt. Ex imaginibus televisificis patet ea lapidibus rotundis similia esse et diametro inter viginti quinque centimetra et unum metrum variare. Ova illa casu in lucem venerunt, cum operarii viam novam munientes rupem quandam explodebant.    </content>
+  </news>
+  <news>
+    <title>De inundationibus in Finnia  vernis</title>
+    <content>Iam tempus adest, cum flumina glacie dissoluta multis locis Finniae meridianae agros inundare incipiunt. In Bothnia autem, ubi rerum condicio propter ripas fluviorum depressas pessima esse solet, caelum his diebus tam frigidum fuit, ut diluvia verna maiora septimana demum proxime futura exspectentur. In regionibus maxime septentrionalibus amnes non ante quam mense Maio supra ripas effundentur.</content>
+  </news>
+</broadcast>
