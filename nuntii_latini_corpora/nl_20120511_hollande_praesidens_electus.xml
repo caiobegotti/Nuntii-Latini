@@ -1,1 +1,33 @@
-<broadcast><title>Hollande praesidens electus</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20120511 10:38:00" /><meta name="corpus" value="nl_20120511_hollande_praesidens_electus.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/hollande_praesidens_electus_35747.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>Hollande praesidens electus</title><content>Praesidens Francogalliae in quinquennium proxime futurum electus est Francois Hollande, socialista quinquaginta septem annos natus. Altero enim suffragio populi pridie Nonas Maias (6.5.) facto sententiarum paene quinquaginta duas centesimas (51,7%) sibi conciliavit. Praesidens hodiernus Nicolas Sarkozy, adversarius eius, ubi primum de eventu comitiorum audivit, se cladem accepisse confessus victori publice gratulatus est.</content></headline><news><title>Quid Hollande suis dixerit</title><content> </content></news><news><title>Comitia parlamentaria Graeciae</title><content> </content></news><news><title>Putin praesidatum suscepit</title><content> </content></news><news><title>De feriis Lusitanorum</title><content> </content></news><news><title>Ver in Finniam iam venit</title><content> </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>Hollande praesidens electus</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20120511 10:38:00"/>
+  <meta name="corpus" value="nl_20120511_hollande_praesidens_electus.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/hollande_praesidens_electus_35747.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>Hollande praesidens electus</title>
+    <content>Praesidens Francogalliae in quinquennium proxime futurum electus est Francois Hollande, socialista quinquaginta septem annos natus. Altero enim suffragio populi pridie Nonas Maias (6.5.) facto sententiarum paene quinquaginta duas centesimas (51,7%) sibi conciliavit. Praesidens hodiernus Nicolas Sarkozy, adversarius eius, ubi primum de eventu comitiorum audivit, se cladem accepisse confessus victori publice gratulatus est.</content>
+  </headline>
+  <news>
+    <title>Quid Hollande suis dixerit</title>
+    <content> </content>
+  </news>
+  <news>
+    <title>Comitia parlamentaria Graeciae</title>
+    <content> </content>
+  </news>
+  <news>
+    <title>Putin praesidatum suscepit</title>
+    <content> </content>
+  </news>
+  <news>
+    <title>De feriis Lusitanorum</title>
+    <content> </content>
+  </news>
+  <news>
+    <title>Ver in Finniam iam venit</title>
+    <content> </content>
+  </news>
+</broadcast>
