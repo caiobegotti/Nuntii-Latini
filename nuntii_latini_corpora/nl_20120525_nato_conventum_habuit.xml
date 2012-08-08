@@ -1,1 +1,33 @@
-<broadcast><title>NATO conventum habuit</title><meta name="author" value="Reijo Pitkranta" /><meta name="published" value="20120525 10:59:00" /><meta name="corpus" value="nl_20120525_nato_conventum_habuit.xml" /><meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/nato_conventum_habuit_35938.html" /><meta name="generator" value="https://github.com/caio1982/Nuntii-Latini" /><headline><title>NATO conventum habuit</title><content>Moderatores consociationis NATO conventu in urbe Chicago habito decreverunt, ut copiae internationales ex Afganistania anno proxime futuro reducerentur. Cum hoc factum erit, administratio belli ad Afganos ipsos transferetur. Pro certo tamen habetur fieri non posse, ut Afganistania omni subsidio externo destituta e difficultatibus suis se expediat. Quam periculosa rerum condicio in finibus eius sit, vel inde apparet, quod ibidem ante paucos dies quinque operarii auxiliarii vi abducti sunt. </content></headline><news><title>Italia terrae motu afflicta </title><content>Die Dominico (20.5.) partes Italiae septentrionales terrae motu, cuius vis sex magnitudines fecisse nuntiatur, vehementer concussae sunt. Qua calamitate prope  Bononiam, Mutinam Ferrariamque facta saltem septem homines vitam amiserunt et quinquaginta fere vulnerati sunt. Huc accedit, quod complures domus privatae, sedes industriales, aedificia publica aut ingentibus rimis dehiscere coeperunt aut omnino collapsa sunt. </content></news><news><title>Res viatoria Syriae laborat</title><content>Legatus Syriae apud Nationes Unitas questus est rem viatoriam patriae suae proximis quattuordecim mensibus gravissima damna accepisse.  In causa fuisse, quod ministri variarum nationum cives suos hortati essent, ne in Syriam proficiscerentur, quoad res ibi motibus popularibus perturbarentur. Idem addidit penuria clientium effectum esse, ut multa deversoria iam claudi cogerentur.</content></news><news><title>Estelle baptismum accepit</title><content>Die Martis (22.5.) Stockholmiae magna sollemnitas acta est, cum Estelle, filia principissae hereditariae Victoriae et principis Danielis, in ecclesia domus regiae baptizata est. Ad hanc caerimoniam celebrandam circiter sescenti hospites illustrissimi invitati erant, inter eos praesidens Finniae Sauli Niinistö et coniux eius Jenni Haukio. Sacramentum baptismatis procuravit Anders Wejryd, archiepiscopus Suetiae. </content></news><news><title>Fax Olympica Britanniam circuit</title><content>Die undevicesimo mensis Maii (19.5.) fax Olympica, quae more translaticio e radiis solis in Graecia accensa erat, in Cornubiam Britannorum aeroplano apportata est. Ibi eam legati magnae auctoritatis receperunt, quorum primores erant principissa Anne et Sebastian Coe, praeses collegii Olympiis celebrandis et Boris Johnson, praefectus urbis Londinii. Constat Olympia aestiva Londiniensia die vicesimo septimo mensis Iulii (27.7.) inauguratum iri. </content></news><news><title>Chelsea victoriam reportavit</title><content>Die Saturni vesperi (19.5.) in stadio Monacensi certatum est, quis esset optimus in Europa grex pedifollicus inter manipulos victores singularum nationum. Quo in ludo manus Londiniensis nomine Chelsea cohorti Germanicae Bayern München occurrit. Diu ancipiti Marte pugnatum est, donec Chelsea e certamine ictuum poenalium punctis quattuor ad tria (4-3) superior discessit.  </content></news></broadcast>
+<?xml version="1.0"?>
+<broadcast>
+  <title>NATO conventum habuit</title>
+  <meta name="author" value="Reijo Pitkranta"/>
+  <meta name="published" value="20120525 10:59:00"/>
+  <meta name="corpus" value="nl_20120525_nato_conventum_habuit.xml"/>
+  <meta name="source" value="http://yle.fi/radio1/tiede/nuntii_latini/nato_conventum_habuit_35938.html"/>
+  <meta name="generator" value="https://github.com/caio1982/Nuntii-Latini"/>
+  <headline>
+    <title>NATO conventum habuit</title>
+    <content>Moderatores consociationis NATO conventu in urbe Chicago habito decreverunt, ut copiae internationales ex Afganistania anno proxime futuro reducerentur. Cum hoc factum erit, administratio belli ad Afganos ipsos transferetur. Pro certo tamen habetur fieri non posse, ut Afganistania omni subsidio externo destituta e difficultatibus suis se expediat. Quam periculosa rerum condicio in finibus eius sit, vel inde apparet, quod ibidem ante paucos dies quinque operarii auxiliarii vi abducti sunt. </content>
+  </headline>
+  <news>
+    <title>Italia terrae motu afflicta </title>
+    <content>Die Dominico (20.5.) partes Italiae septentrionales terrae motu, cuius vis sex magnitudines fecisse nuntiatur, vehementer concussae sunt. Qua calamitate prope  Bononiam, Mutinam Ferrariamque facta saltem septem homines vitam amiserunt et quinquaginta fere vulnerati sunt. Huc accedit, quod complures domus privatae, sedes industriales, aedificia publica aut ingentibus rimis dehiscere coeperunt aut omnino collapsa sunt. </content>
+  </news>
+  <news>
+    <title>Res viatoria Syriae laborat</title>
+    <content>Legatus Syriae apud Nationes Unitas questus est rem viatoriam patriae suae proximis quattuordecim mensibus gravissima damna accepisse.  In causa fuisse, quod ministri variarum nationum cives suos hortati essent, ne in Syriam proficiscerentur, quoad res ibi motibus popularibus perturbarentur. Idem addidit penuria clientium effectum esse, ut multa deversoria iam claudi cogerentur.</content>
+  </news>
+  <news>
+    <title>Estelle baptismum accepit</title>
+    <content>Die Martis (22.5.) Stockholmiae magna sollemnitas acta est, cum Estelle, filia principissae hereditariae Victoriae et principis Danielis, in ecclesia domus regiae baptizata est. Ad hanc caerimoniam celebrandam circiter sescenti hospites illustrissimi invitati erant, inter eos praesidens Finniae Sauli Niinist&#xF6; et coniux eius Jenni Haukio. Sacramentum baptismatis procuravit Anders Wejryd, archiepiscopus Suetiae. </content>
+  </news>
+  <news>
+    <title>Fax Olympica Britanniam circuit</title>
+    <content>Die undevicesimo mensis Maii (19.5.) fax Olympica, quae more translaticio e radiis solis in Graecia accensa erat, in Cornubiam Britannorum aeroplano apportata est. Ibi eam legati magnae auctoritatis receperunt, quorum primores erant principissa Anne et Sebastian Coe, praeses collegii Olympiis celebrandis et Boris Johnson, praefectus urbis Londinii. Constat Olympia aestiva Londiniensia die vicesimo septimo mensis Iulii (27.7.) inauguratum iri. </content>
+  </news>
+  <news>
+    <title>Chelsea victoriam reportavit</title>
+    <content>Die Saturni vesperi (19.5.) in stadio Monacensi certatum est, quis esset optimus in Europa grex pedifollicus inter manipulos victores singularum nationum. Quo in ludo manus Londiniensis nomine Chelsea cohorti Germanicae Bayern M&#xFC;nchen occurrit. Diu ancipiti Marte pugnatum est, donec Chelsea e certamine ictuum poenalium punctis quattuor ad tria (4-3) superior discessit.  </content>
+  </news>
+</broadcast>
